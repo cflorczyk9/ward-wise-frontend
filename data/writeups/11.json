@@ -1,0 +1,51 @@
+{
+  "ward": "11",
+  "headline": "Ward 11's best mark is confirmed twice, its worst marks trace to one source.",
+  "summary": "Ward 11's clearest strength is confirmed twice, by two sources that never talked to each other. A Google Maps sweep of every restaurant in the ward counts six percent as chain outlets, first in Chicago. The city's own business license records, a completely different system, reach the same conclusion, just over five percent chain, also first. That kind of agreement is rare on this scorecard, where most rankings rest on a single source counting one way. Grocery access adds a second real strength, second best in the city on stores per resident.\n\nThe weak side is the opposite problem, one source counted five separate times. Proximity to hazardous-chemical risk sites, to major emitter facilities, to toxic-release facilities, the diesel particulate matter in the air, and the traffic volume near homes all come from the same city health department index, each one a different slice of the same industrial exposure. The ward's own geography backs it up. Halsted Street, which runs through Bridgeport, hosted Motoblot's motorcycle crowds this June, and that same month a Chicago Department of Transportation planner working on bike infrastructure was fatally struck while biking there. The sixth weak mark, houses of worship per resident, doesn't belong to that story. It comes from a different source measuring something closer to civic geography than pollution.",
+  "reading_the_rankings": "Two of Ward 11's extremes deserve a closer look before they carry full weight. The last-place mark on hazard-site proximity is real, and it shares a source with four of the ward's other worst marks, the same city health index apportioned from census tracts that don't respect ward lines. The middle half of Chicago's fifty wards sit within eleven points of each other on this measure, so fiftieth place isn't necessarily far from fortieth. The first-place mark on streetlight repair time, 1.48 days on average, is ranked against all fifty wards, though the data flags the measure as not fully populated everywhere, so even this finish carries an asterisk. What it covers is narrow. It times one 311 request type from open to close and says nothing about how many lights went dark in the first place. The chain-restaurant figure carries no such asterisk. Two unrelated sources land on the same rank, and it holds up without qualification.",
+  "news": [
+    {
+      "headline": "City Worker Who Improved Bike Infrastructure Killed While Biking In Bridgeport",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/07/city-worker-who-improved-bike-infrastructure-killed-while-biking-in-bridgeport/",
+      "date": "2026-06-07",
+      "note": "Riley O'Neil, a Chicago Department of Transportation planner who worked on bike infrastructure, was fatally struck while biking on Halsted Street in Bridgeport."
+    },
+    {
+      "headline": "Bridgeport's First Big Street Fest In Years Kicks Off This Weekend With Motoblot",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/18/bridgeports-first-big-street-fest-in-years-kicks-off-this-weekend-with-motoblot/",
+      "date": "2026-06-18",
+      "note": "The motorcycle-themed festival Motoblot moved to Halsted Street in Bridgeport for its first large-scale run in the neighborhood in several years."
+    },
+    {
+      "headline": "42 Parks On South, West Sides Getting Improved Air Conditioning To Help Battle Heat Waves",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/13/42-park-fieldhouses-on-south-west-sides-getting-improved-air-conditioning-to-help-battle-heat-waves/",
+      "date": "2026-07-13",
+      "note": "Armour Square Park is one of 30 South and West Side parks slated for air conditioning upgrades this summer under a Chicago Park District effort."
+    },
+    {
+      "headline": "'Moving Archer Forward' Initiative Aims To Bring 800 New Housing Units To Archer Avenue",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/",
+      "date": "2026-07-13",
+      "note": "A city plan would overhaul streets and add about 800 housing units and 280,000 square feet of retail along Archer Avenue from Bridgeport to Garfield Ridge, and heads to the City Council's plan commission next month."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Nicole T. Lee",
+    "website_url": "https://votenicolelee.com/",
+    "verified": true,
+    "verification_note": "Fetched chicago.gov/city/en/about/wards/11.html this session. It names 'Alderman Nicole Lee' and lists the 11th Ward office (3659 S. Halsted St., ward11@cityofchicago.org) but has no personal website field, unlike some other ward pages. Fetched votenicolelee.com directly, which identifies itself as 'Nicole Lee, 11th Ward Alderman' in its header and matches the same name and ward, though its footer marks it as paid for by her campaign committee rather than a city office site."
+  },
+  "sources_fetched": [
+    "https://www.chicago.gov/city/en/about/wards/11.html",
+    "https://votenicolelee.com/",
+    "https://blockclubchicago.org/2026/06/07/city-worker-who-improved-bike-infrastructure-killed-while-biking-in-bridgeport/",
+    "https://blockclubchicago.org/2026/06/18/bridgeports-first-big-street-fest-in-years-kicks-off-this-weekend-with-motoblot/",
+    "https://blockclubchicago.org/2026/07/13/42-park-fieldhouses-on-south-west-sides-getting-improved-air-conditioning-to-help-battle-heat-waves/",
+    "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/"
+  ]
+}

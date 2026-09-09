@@ -74,6 +74,9 @@ server.py               views + /api/* proxy
 templates/
   base.html             layout: header, nav, stylesheet
   k3.html               the explorer at / — four views, one map
+  reports.html          Reports at /reports: where a ward stands today on every measure
+  report.html           Quarterly at /report: one article per ward, with a reader-weighted re-ranking
+  menu.html             Menu money at /menu: how each ward office split its capital budget
   explorer.html         the older map view, still at /classic
   dictionary.html       metric dictionary
   about.html            support page
@@ -86,6 +89,9 @@ static/
   k3-presets.js         the starting-point lists, plain data
   k3-dictionary.js      the metric dictionary: search, grouping, deep links
   ward-neighbors.js     which wards border which, generated
+  site-config.js        per-city settings the pages read, generated from city.json
+  geocode.js            address lookup in the browser (the Flask /geocode routes remain as a fallback)
+  reports.js, report.js, menu.js, equation.js   the three reporting pages
   explorer.js           the older map view (2,100 lines: Leaflet, choropleth, weights, modals)
   metric_details.js     per-metric facts shared by the dictionary and /classic
   metric_icons.js       one inline SVG per metric
@@ -93,6 +99,9 @@ static/
   styles.css            everything the older view uses
 scripts/
   build_map_assets.py   regenerates the map outline and the neighbor list
+data/                   prebuilt JSON for the reporting pages (wards, writeups, report, menu, equation)
+city.json               the single per-city source the builders and site-config.js read
+build_*.py, check_*.py  regenerate data/ from the API and check it; run from the repo root
 ```
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — including a list of good first issues.

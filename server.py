@@ -18,7 +18,7 @@ import os
 from pathlib import Path
 
 import requests
-from flask import Flask, Response, jsonify, redirect, render_template, request, url_for
+from flask import Flask, Response, jsonify, redirect, render_template, request, send_from_directory, url_for
 
 API_BASE = os.environ.get("PENLIGHT_API_BASE", "https://penlight.wardwise.org").rstrip("/")
 SITE_BASE = os.environ.get("PENLIGHT_SITE_BASE", "https://penlight.wardwise.org").rstrip("/")
@@ -36,6 +36,10 @@ app = Flask(__name__)
 HTTP = requests.Session()
 
 STATIC_DIR = Path(app.static_folder)
+
+# Prebuilt JSON for the reporting pages (Reports, Quarterly, Menu money).
+# The build_*.py scripts at the repo root regenerate it from the API.
+DATA_DIR = Path(__file__).parent / "data"
 
 # Cache-bust static assets: one version per change = newest mtime among css/js, so editing
 # any stylesheet or script forces a refetch. Templates pass `v=asset_version`.
@@ -84,6 +88,47 @@ def metrics_redirect():
 @app.get("/about")
 def about():
     return render_template("about.html")
+
+
+# --- Reporting pages -----------------------------------------------------------
+# Three plain-HTML pages from the standalone redesign. Each carries its own
+# header and scripts and reads the JSON under data/ rather than the live API,
+# so the writeups and rankings are stable between builds.
+
+@app.get("/reports")
+def reports():
+    return render_template("reports.html")
+
+
+@app.get("/report")
+def report():
+    return render_template("report.html")
+
+
+@app.get("/menu")
+def menu():
+    return render_template("menu.html")
+
+
+# The standalone site served these as files. Keep the old addresses working.
+HTML_ALIASES = {
+    "index.html": "index",
+    "reports.html": "reports",
+    "report.html": "report",
+    "menu.html": "menu",
+    "dictionary.html": "dictionary",
+    "support.html": "about",
+}
+
+
+@app.get("/<any(index.html, reports.html, report.html, menu.html, dictionary.html, support.html):page>")
+def html_alias(page: str):
+    return redirect(url_for(HTML_ALIASES[page]), code=301)
+
+
+@app.get("/data/<path:filename>")
+def data_file(filename: str):
+    return send_from_directory(DATA_DIR, filename)
 
 
 # --- Geocoding ---------------------------------------------------------------

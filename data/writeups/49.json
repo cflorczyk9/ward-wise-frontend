@@ -1,0 +1,52 @@
+{
+  "ward": "49",
+  "headline": "Ward 49 leads on particle pollution and trails on ozone, the same two sources both times.",
+  "summary": "Two independent measurements of fine particulate matter, one from the EPA and one from Chicago's own health department, both rank Ward 49 first in the city. Two more measures from the city's own index, diesel exhaust and industrial toxic releases, also rank first here. That is one reading of the ward's air confirmed four times over, not four separate wins. Ozone runs the opposite way. The same EPA and CDPH sources that led on particulates both rank Ward 49 last in the city on ozone. Ozone is a different kind of pollution. It forms when sunlight cooks car and industrial exhaust into a gas, rather than drifting up from a tailpipe or a smokestack the way particulates do, so a ward can lead the city on one and trail on the other without any contradiction in the data.\n\nThe ward's own government adds a separate story. Its aldermanic office put 47.9 percent of this year's menu money into bike lanes, sidewalks, and street redesign, the highest share in the city, while spending nothing on alley repair, the lowest share in the city. Both numbers are choices made by one office in one year, a fact about that office's budget rather than a condition of the neighborhood. The traffic count points the same direction. Ward 49 recorded 87 traffic-crash injuries last year, fewer than anywhere else in Chicago, though that figure is a raw count rather than a rate, so it also reflects how much traffic and how many people are out and about here to begin with, not just how safe those streets are.",
+  "reading_the_rankings": "The two rankings most likely to be misread both sit at the very bottom of the list. The share of adults modeled as afraid to walk alone at night and the share modeled as lonely each carry a low-confidence flag from the researchers who built them, and neither is a survey or a count of anything that happened here. Both are statistical estimates of what a ward with this population profile usually looks like, built from national and citywide data rather than from asking anyone who actually lives in the ward. Landing at the bottom on two modeled guesses says more about the model than about anyone's actual experience walking here at night.",
+  "news": [
+    {
+      "headline": "Rogers Park's Historic 400 Theater, Closed Since 2023, Reopening This Month Under New Owner",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/22/rogers-parks-new-400-theater-closed-since-2023-opening-this-month-under-new-owner/",
+      "date": "2026-07-22",
+      "note": "Chicago's oldest movie theater, shuttered since 2023, reopened under new ownership with screenings starting July 31."
+    },
+    {
+      "headline": "Restaurant Owner Moonlights As An Advocate For Somali Asylum Seekers. He's Never Been Busier",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/08/06/rogers-park-restaurant-owner-moonlights-as-advocate-for-somali-asylum-seekers-hes-never-been-busier/",
+      "date": "2026-08-06",
+      "note": "A Rogers Park restaurant owner who fled Somalia's civil war has become a key volunteer helping East African asylum seekers through fast-tracked immigration court cases."
+    },
+    {
+      "headline": "Burglars steal SUV, cause multivehicle crash in Rogers Park",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/crime/2026/07/15/burglars-steal-suv-cause-multi-vehicle-crash-in-rogers-park-1-in-custody",
+      "date": "2026-07-15",
+      "note": "Burglars stole an SUV from a Rogers Park business and crashed it into several other vehicles, injuring four people."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Maria E. Hadden",
+    "website_url": "http://www.49thward.org",
+    "verified": true,
+    "verification_note": "Fetched http://www.49thward.org directly this session. The page identifies itself as the Ward Service Office for Chicago's 49th Ward and carries a social handle 'Alderwoman49' and a newsletter signup tied to 'mariafor49.' Cross-checked against Wikipedia's Maria Hadden entry, which lists www.49thward.org as her official ward website and confirms she represents the 49th Ward."
+  },
+  "sources_fetched": [
+    "http://www.49thward.org",
+    "https://www.49thward.org/news",
+    "https://www.49thward.org/newsletter-archive",
+    "https://en.wikipedia.org/wiki/Maria_Hadden",
+    "https://blockclubchicago.org/",
+    "https://blockclubchicago.org/category/uptown-edgewater-rogers-park/",
+    "https://blockclubchicago.org/2026/07/22/rogers-parks-new-400-theater-closed-since-2023-opening-this-month-under-new-owner/",
+    "https://blockclubchicago.org/2026/08/06/rogers-park-restaurant-owner-moonlights-as-advocate-for-somali-asylum-seekers-hes-never-been-busier/",
+    "https://blockclubchicago.org/2026/07/16/hexe-haus-closing-after-35-years-of-building-witchy-community-in-edgewater/",
+    "https://chicago.suntimes.com/rogers-park",
+    "https://chicago.suntimes.com/edgewater",
+    "https://chicago.suntimes.com/crime/2026/07/15/burglars-steal-suv-cause-multi-vehicle-crash-in-rogers-park-1-in-custody",
+    "https://chicago.suntimes.com/real-estate/2026/06/30/judge-cohen-dismisses-edgewater-residents-businesses-lawsuit-broadway-upzoning",
+    "https://chicago.suntimes.com/real-estate/2026/06/04/edgewater-residents-emanuel-congregation-land-public-park"
+  ]
+}

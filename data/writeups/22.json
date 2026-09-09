@@ -1,0 +1,28 @@
+{
+  "ward": "22",
+  "headline": "Ward 22's only two caveat-free numbers both track landlord profit, and they agree.",
+  "summary": "Ten of the twelve measures featured on this page carry at least one caveat, a flag about how the number was built or how far to trust it. The two that carry none are both about landlord profit, one using a rental unit's assessed value as the mortgage basis and one using its last sale price, and both rank 2nd best in Chicago. Different mortgage basis, same math, one finding stated two ways. Renters here hand over less of their rent as landlord profit than almost anywhere else in the city, and it is the rare number on this page worth taking at face value.\n\nThe worst numbers work the opposite way. Two measures of how often adults trade favors with neighbors or talk to them tie for the literal bottom of the city, and both land at 0.0 percent, built by blending a civic engagement survey with census data and flagged low confidence by the source itself. Taken literally, that would mean no adult in the ward reports even a monthly chat with a neighbor, an implausible headcount for any inhabited area, so the tie reads as a model running out of range rather than a finding about how the ward actually socializes. The environmental numbers split in a similar way, and this is where counting caveats stops being the point. Ozone ranks 2nd best in the city, while the broader Environmental Justice index and a toxic-release measure both rank 49th. Ozone drifts in across the whole region. The other two are built around what sits nearby, and a near-bottom finish on both is not something one clean pollutant reading offsets. The 216 resident surveys behind Garfield Ridge's new community plan are the kind of ground-level count the modeled neighbor numbers don't have.",
+  "reading_the_rankings": "The camera-spending ranking at first place is the one to read most carefully. It records a spending choice the current alderperson made with a discretionary aldermanic fund, not a condition of the neighborhood, and the middle half of the city's fifty wards, roughly 13th through 38th place, span zero points on this measure, so the first-place finish sits inside a pile of wards bunched at the same value rather than clear of the field. The perfect 5.0 coffee rating carries a quieter version of the same problem. This metric isn't measured in every ward, so the ranking compares Ward 22 only against the wards where a rating exists, not against all fifty, which makes a rating that looks flawless less remarkable than the number one spot suggests.",
+  "news": [
+    {
+      "headline": "Garfield Ridge resident crafts neighborhood's first community framework plan",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/real-estate/2026/07/04/garfield-ridge-resident-crafts-neighborhoods-first-community-framework-plan",
+      "date": "2026-07-04",
+      "note": "A recent UIC graduate built Garfield Ridge 2050, a 25-year community plan based on 216 resident survey responses, backed by Ald. Rodriguez and Ald. Tabares."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Michael D. Rodriguez",
+    "website_url": "https://www.22ndward.org/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Found and fetched https://www.22ndward.org/ this session. It names 'Michael D. Rodriguez, Alderperson of the 22nd Ward' in the page header and footer, confirming it as his official ward site."
+  },
+  "sources_fetched": [
+    "https://www.22ndward.org/",
+    "https://chicago.suntimes.com/garfield-ridge",
+    "https://chicago.suntimes.com/real-estate/2026/07/04/garfield-ridge-resident-crafts-neighborhoods-first-community-framework-plan",
+    "https://chicago.suntimes.com/archer-heights"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "ward": "46",
+  "headline": "Ward 46 is farthest from freight rail in Chicago and slowest to fix a garbage cart.",
+  "summary": "Two real threads run through Ward 46's numbers, and they don't share a cause. The first is distance from industry. Freight rail runs farther from here than from any other ward in Chicago, and toxic-release facilities sit almost as far, the second-lowest exposure of any ward measured. Uptown and Lake View sit on the lakefront, east of the freight corridors and industrial rail yards that run through the city's West and South Sides, which is the ordinary geography behind both numbers. One more strength stands next to those two without an obvious link to them. About a third of working residents here commute by public transit, the second-highest share in the city.\n\nA second thread is where the ward's own office puts its money, and a third is where city services are falling behind. Ward 46 spent 88.5 percent of its menu budget on sidewalk repair last year, the highest share of any ward, while street resurfacing got 9.6 percent, near the bottom of the list, and the separate bike and pedestrian redesign category got nothing at all, last of fifty. That split is a fact about the current office's budget priorities rather than about the people who live here. The service number stands apart from all of it. Garbage cart repair requests take 32.91 days to close on average in Ward 46, the slowest of any ward measured, just over a month for a routine maintenance call, and nothing in the data marks it as a modeling artifact.",
+  "reading_the_rankings": "Take the mural count before reading it as an outright citywide win. Ward 46's 49 registered murals lead the pack, but the registry only had data for 49 of the fifty wards, so this is a lead within whatever field got measured, not proof it would beat a full field of fifty. The museum count reads the opposite way. Ward 46 sits 49th of fifty with zero mapped museums, which sounds like a real gap, except twenty-two other wards report a museum count inside two points of it. A rank of 49th here mostly means Ward 46 is one of the many wards without a mapped museum, not an outlier among them.",
+  "news": [
+    {
+      "headline": "Uptown Theatre Owner Says City Funding Needed For Renovations — But City Says He's Asking For Too Much",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/07/uptown-theatres-future-uncertain-as-funding-remains-up-in-the-air/",
+      "date": "2026-07-07",
+      "note": "The Uptown Theatre's owner is seeking roughly $200 million in city funding to restore the long-shuttered venue, more than city planners say a typical TIF deal would support."
+    },
+    {
+      "headline": "Books4Cause, A Free Bookstore, Is Coming To Uptown",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/10/books4cause-a-free-bookstore-is-coming-to-uptown/",
+      "date": "2026-07-10",
+      "note": "A free bookstore that has given away more than 200,000 books from its Avondale location is opening a second storefront on Wilson Avenue."
+    },
+    {
+      "headline": "Reconstruction Of 4 Montrose Harbor Bridges Nearly Finished",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/13/reconstruction-of-4-montrose-harbor-bridges-nearly-finished/",
+      "date": "2026-05-13",
+      "note": "A two-year rebuild of four 90-year-old bridges at Montrose Harbor was wrapping up, with paths reopening ahead of beach season."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Angela Clay",
+    "website_url": "https://www.46thward.com",
+    "verified": true,
+    "verification_note": "wards.json listed no website for this ward. Found and fetched https://www.46thward.com this session. The page identifies itself as 'Alderwoman Angela Clay - 46th Ward' in its header and navigation."
+  },
+  "sources_fetched": [
+    "https://www.46thward.com",
+    "https://blockclubchicago.org/2026/07/07/uptown-theatres-future-uncertain-as-funding-remains-up-in-the-air/",
+    "https://blockclubchicago.org/2026/07/10/books4cause-a-free-bookstore-is-coming-to-uptown/",
+    "https://blockclubchicago.org/2026/05/13/reconstruction-of-4-montrose-harbor-bridges-nearly-finished/"
+  ]
+}

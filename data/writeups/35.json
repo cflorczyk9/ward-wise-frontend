@@ -1,0 +1,43 @@
+{
+  "ward": "35",
+  "headline": "Ward 35's independent dining strip has some of the city's least park and gathering space.",
+  "summary": "Only one ward in Chicago has a lower share of chain restaurants than Ward 35's 9.13 percent, and its bars post a median Google rating of 4.6, fourth-best among wards with enough rated bars to count. Those two numbers describe one commercial strip, the first counting who owns it and the second grading it. Renters here also give up less of their income to rent than in most of the city. About 35.4 percent of renter households spend 30 percent or more of their income on rent here, the fifth-lowest burden of the fifty wards. The ward's aldermanic office backs the same walkable character with money. Of the roughly $1.5 million in menu funds spent in the latest full year, 20.3 percent went to bike lanes, sidewalks and street redesigns rather than the car-oriented default, the fourth-highest share in the city, and that spending touched a wider mix of project types than all but three other wards. Both figures describe a choice the current officeholder made with the ward's budget, a fact about the office more than about the neighborhood.\n\nA second signal shows up in how much room the ward has for people once they are not eating or drinking. Park District acreage per resident here is among the lowest in the city, 1.68 acres per 10,000 residents, and the ward's residential permit-parking zones run 50.39 block faces per square kilometer, dense enough to land near the bottom of the city's parking-scarcity ranking too. Both numbers move together as more people and buildings share the same blocks. Park acres per resident fall while curb competition per block rises. The ward also counts just one worship place with a Google rating of 4.8 or higher and at least 25 reviews, second-fewest in the city, alongside a modeled adult loneliness estimate of 37.6 percent, the fourth-highest of the fifty wards. None of these numbers prove the others caused them, but together they describe a ward short on the physical space, sacred or green, where people gather outside a restaurant or bar.",
+  "reading_the_rankings": "Ward 35's 49th-place finish on 'beloved congregations' is the number most likely to read as a verdict on the neighborhood's faith or community life. The measure only counts worship places with a Google rating of 4.8 or higher and at least 25 reviews, a bar most congregations never clear regardless of their size or quality, since it depends on parishioners posting reviews online. All fifty wards are ranked on it, so the finish itself is solid. What the finish ranks is Google activity around worship places rather than worship. The alder attendance rate in the bottom five wards deserves the same caution. That figure blends more than one officeholder's term across the 2023 boundary redraw and carries only medium confidence from its own source, a fact about an office stitched across a boundary change more than a verdict on the people living here.",
+  "news": [
+    {
+      "headline": "Construction Begins On Logan Square's Megamall Plaza",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/28/construction-begins-on-logan-squares-megamall-plaza/",
+      "date": "2026-07-28",
+      "note": "Work started on a new public plaza at the former Megamall site in Logan Square, with seating, a performance space, and a play area planned for completion by early next year."
+    },
+    {
+      "headline": "New Housing OK'd For Avondale, McKinley Park, Streeterville And Across From Johnny's Icehouse",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/16/new-housing-okd-for-avondale-mckinley-park-streeterville-and-across-from-johnnys-ice-house/",
+      "date": "2026-06-16",
+      "note": "City Council's zoning committee advanced an apartment and townhome development in Avondale at 3231-65 N. California Ave., part of nearly 300 housing units approved that day."
+    },
+    {
+      "headline": "Logan Square Homeless Encampment Being Cleared Ahead Of Plaza Construction",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/11/logan-square-homeless-encampment-being-cleared-ahead-of-plaza-construction/",
+      "date": "2026-06-11",
+      "note": "The last residents of a longtime encampment near the Logan Square monument relocated ahead of construction on the new public plaza there."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Anthony J. Quezada",
+    "website_url": "https://www.ward35.org/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Found https://www.ward35.org/ by search and fetched it directly this session. The page reads 'My name is Anthony J. Quezada, and I am proud to serve as your alderman of Chicago's 35th Ward,' and lists the ward office contact as ward35@cityofchicago.org."
+  },
+  "sources_fetched": [
+    "https://www.ward35.org/",
+    "https://blockclubchicago.org/2026/07/28/construction-begins-on-logan-squares-megamall-plaza/",
+    "https://blockclubchicago.org/2026/06/16/new-housing-okd-for-avondale-mckinley-park-streeterville-and-across-from-johnnys-ice-house/",
+    "https://blockclubchicago.org/2026/06/11/logan-square-homeless-encampment-being-cleared-ahead-of-plaza-construction/",
+    "https://blockclubchicago.org/tag/35th-ward/"
+  ]
+}

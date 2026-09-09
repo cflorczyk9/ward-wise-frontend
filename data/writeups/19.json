@@ -1,0 +1,44 @@
+{
+  "ward": "19",
+  "headline": "Ward 19's best and worst numbers share one cause, low density built around cars.",
+  "summary": "Ward 19 has the fewest pedestrian and cyclist crashes of the fifty wards, a raw count of 21, and also the third-lowest share of workers who commute by transit, 9.2 percent. Those numbers describe the same place. Few residents are out walking, biking or riding transit, so few end up struck doing it. Grocery stores per resident and licensed entertainment venues sit in the same low range, 1.03 per 10,000 residents and 49th of fifty for venues, a retail count that follows the housing pattern in this low-density stretch of the far southwest side. The businesses that do exist can still draw a crowd. The Original Rainbow Cone just marked its 100th year on Western Avenue, and Horse Thief Hollow's barrel-aged beer won gold at a national competition, proof that a thin venue count reflects density more than quality.\n\nVoter turnout is a cleaner win, 62 percent of registered voters, the highest share in the city and a straight count rather than a model. The alderman put 99.6 percent of this year's menu money into street resurfacing, also the most of any ward, and that same decision produces the ward's dead-last score for menu spending diversity. A budget concentrated almost entirely in one category cannot also score high on variety. Both numbers come from the same choice.",
+  "reading_the_rankings": "Two of Ward 19's first-place rankings look like verdicts on how residents feel, though neither is measuring that directly. The modeled share of adults satisfied with their finances tops the city at 33.7 percent, and the modeled share afraid to walk alone at night is lowest in the city at 39.1 percent. First place on both means the ward's demographic profile scored better than the other forty-nine wards' profiles in the same model, a relative rank rather than a report from anyone who lives here. Both figures are modeled from demographics rather than counted from a survey taken in the ward, and the same source rates its own reliability low. The pedestrian and cyclist crash count invites a similar correction. Ranking first with 21 crashes reads as the safest streets in the city, but the ward also has the third-lowest share of workers who commute by transit and few people out walking or biking to begin with. One of the ward's speed cameras, its lowest-ticketing, sits on 99th Street and may move to a stretch near two schools on 111th Street after parents there raised safety concerns, hardly the sign of a ward that treats its top ranking here as a settled score.",
+  "news": [
+    {
+      "headline": "As Beverly Speed Cameras Continue To Rack Up Tickets, One Camera Could Be On The Move",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/29/as-beverly-speed-cameras-continue-to-rack-up-tickets-one-camera-could-be-on-the-move/",
+      "date": "2026-07-29",
+      "note": "The 19th Ward's lowest-ticketing speed camera, on 99th Street, may move to a stretch near two schools on 111th Street after parents raised safety concerns."
+    },
+    {
+      "headline": "Original Rainbow Cone Hosting 100th Birthday Bash Sunday",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/08/05/original-rainbow-cone-hosting-100th-birthday-bash-sunday/",
+      "date": "2026-08-05",
+      "note": "The Beverly ice cream shop on Western Avenue is marking its 100th year with a birthday party, cake, and prize giveaways."
+    },
+    {
+      "headline": "Horse Thief Hollow's Barrel-Aged Brew Wins Gold At U.S. Beer Championships",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/08/04/horse-thief-hollows-barrel-aged-brew-wins-gold-at-u-s-beer-championships/",
+      "date": "2026-08-04",
+      "note": "The Beverly brewery won a national gold medal for a Belgian-style beer that spent more than two years aging in oak barrels."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Matthew J. O'Shea",
+    "website_url": "http://the19thward.com/",
+    "verified": true,
+    "verification_note": "wards.json already listed this site. Fetched it this session and it redirects (301) to https://www.19thwardmobile.com/, which names 'Matthew J. O'Shea, Alderman 19th Ward' and lists the ward service office address, confirming it is his official site."
+  },
+  "sources_fetched": [
+    "http://the19thward.com/",
+    "https://www.19thwardmobile.com/",
+    "https://blockclubchicago.org/beverly-mount-greenwood-morgan-park/",
+    "https://blockclubchicago.org/2026/07/29/as-beverly-speed-cameras-continue-to-rack-up-tickets-one-camera-could-be-on-the-move/",
+    "https://blockclubchicago.org/2026/08/05/original-rainbow-cone-hosting-100th-birthday-bash-sunday/",
+    "https://blockclubchicago.org/2026/08/04/horse-thief-hollows-barrel-aged-brew-wins-gold-at-u-s-beer-championships/"
+  ]
+}

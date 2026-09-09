@@ -1,0 +1,35 @@
+{
+  "ward": "13",
+  "headline": "Two agencies rank Ward 13's air worst in Chicago, and this ward holds Midway Airport.",
+  "summary": "Ward 13 sits second in the city for direct sunlight reaching its sidewalks, both across the year and again on the summer solstice, essentially one fact measured twice, because Clearing, Garfield Ridge, West Lawn and West Elsdon are built low, blocks of single-family housing rather than towers, so little here casts a shadow. Midway Airport also sits inside this ward. Two separate pollution measures, one an EPA model and one the city health department's own index, both land Ward 13 last in Chicago for fine particulate matter. Neither measure names a source for that pollution, so the airport is a candidate rather than an answer. What the pair does establish is that the reading survives a federal method and a city method run independently, which is more than most single rankings on this page can claim.\n\nThe ward's housing stock looks similarly still. Ward 13 logs the second-fewest demolitions of any ward, the least residential-renovation spending in the city, and the smallest surveyed stock of historic pre-1940 buildings, three different measures agreeing that not much here is being torn down, built up, or catalogued as significant. Two of the ward's better marks belong to the ward office rather than the neighborhood. The fastest garbage-cart repair turnaround in the city and a fully spent aldermanic capital budget are decisions made by staff, and Marty Quinn, who has held the seat for fifteen years, announced this summer that he will not seek reelection, so those numbers track a term now ending rather than something residents can count on automatically. A city plan announced in July would rezone the Archer Avenue corridor through Garfield Ridge and West Lawn for hundreds of new housing units, which is the kind of project that could move the ward's weakest number, the renovation-investment ranking, in the years ahead.",
+  "reading_the_rankings": "Two of these numbers read stronger alone than they do next to the rest of the city. The menu-budget line, third place for the share of aldermanic capital money actually spent rather than left idle, sounds like real separation from the pack, but sixteen other wards score within two points of it, so third and twelfth are not describing meaningfully different offices. The renovation-investment ranking works the same way from the bottom. Ward 13 is last for construction dollars spent on residential permits, but fifteen other wards sit within two points of that same low score, and the source behind the number rates its own confidence as medium, so this reads as one ward inside a large cluster of quiet housing markets, not a uniquely underinvested one.",
+  "news": [
+    {
+      "headline": "Southwest Side Ald. Marty Quinn Won't Seek Reelection After 4 Terms In City Council",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/08/southwest-side-ald-marty-quinn-wont-seek-reelection-after-4-terms-in-city-council/",
+      "date": "2026-07-08",
+      "note": "Quinn announced he won't run again in the 2027 election, ending 15 years representing the ward, and said he plans to serve out his term through next May."
+    },
+    {
+      "headline": "'Moving Archer Forward' Initiative Aims To Bring 800 New Housing Units To Archer Avenue",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/",
+      "date": "2026-07-13",
+      "note": "A city and regional transit planning initiative, tagged to Garfield Ridge and West Lawn along with several other Southwest Side neighborhoods, would rezone a 6.3-mile Archer Avenue corridor running from Bridgeport to Garfield Ridge for new housing, retail space and transit upgrades over the next 10 to 20 years."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Marty Quinn",
+    "website_url": "https://www.chicago.gov/city/en/about/wards/13.html",
+    "verified": true,
+    "verification_note": "Fetched chicago.gov/city/en/about/wards/13.html directly this session. The page's metadata and body both name Marty Quinn as the sitting alderman of Ward 13, listing the ward office email ward13@cityofchicago.org."
+  },
+  "sources_fetched": [
+    "https://www.chicago.gov/city/en/about/wards/13.html",
+    "https://blockclubchicago.org/2026/07/08/southwest-side-ald-marty-quinn-wont-seek-reelection-after-4-terms-in-city-council/",
+    "https://blockclubchicago.org/tag/marty-quinn/",
+    "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/"
+  ]
+}

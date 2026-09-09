@@ -1,0 +1,50 @@
+{
+  "ward": "44",
+  "headline": "One demographic model puts Ward 44 first for bars and last for religion.",
+  "summary": "Three of Ward 44's six best scores describe the same thing from different angles, an unusually dense stretch of bars. The ward counts 62 bars rated 4 stars or better with real review volume, more than any other ward, and its rate of licensed taverns per resident also leads the city. A modeled estimate of how often adults visit a bar weekly lands Ward 44 first too, built from a blend of national survey and health data. Wrigleyville anchors that scene, and residents got a preview of what it costs them in June, when a Mumford & Sons show at Wrigley Field ran past its scheduled cutoff and drew fines under the city's noise ordinance, though neighbors said they didn't mind.\n\nThe same model runs in the opposite direction at the bottom of the list. Four separate measures of religious life, weekly attendance, strength of belief, certainty that God exists, and an overall attendance index, all rank Ward 44 last. Every one of them comes from that same modeled source, the blend of national survey and health data behind the bar-attendance number above, not a survey of anyone who actually lives here. An age and income mix that predicts heavy bar traffic produces, from the identical inputs, a prediction of light church attendance, one number's shadow across four scales rather than four separate findings about how religious this ward is.",
+  "reading_the_rankings": "Two of Ward 44's last-place rankings need context before they mean much. Worship Engagement, where the ward posts 71.9 reviews per 10,000 residents and still finishes last of fifty, counts Google listings for religious buildings, not who attends them, and the middle half of the city spans under seven points on this measure, so most wards including this one are bunched near the same low score. Park Access is a real shortage, but a mechanical one. At 0.73 acres per 10,000 residents, also last in the city, the number is a rate, not a fixed quantity, and it falls further every time a new building like the 355-unit tower now clearing approval near Diversey Harbor adds residents without adding park acreage.",
+  "news": [
+    {
+      "headline": "Lakeview High-Rise Proposal Moves Forward With Design Changes, Demolition Timeline",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/28/lakeview-high-rise-proposal-moves-forward-with-design-changes-demolition-timeline/",
+      "date": "2026-07-28",
+      "note": "Developers revised a proposed 355-unit apartment tower near Diversey Harbor after six months of meetings with Ald. Bennett Lawson's office, with demolition of the vacant Stone Medical Center site set to begin next month."
+    },
+    {
+      "headline": "Ann Sather Taking Over Stella's Diner In Lakeview",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/08/03/ann-sather-taking-over-stellas-diner-in-lakeview/",
+      "date": "2026-08-03",
+      "note": "The Lakeview restaurant chain Ann Sather is taking over the former Stella's Diner space, a sale its owner says was in the works for months before Stella's closed over health code violations."
+    },
+    {
+      "headline": "Mumford & Sons Kept Wrigleyville Up Late — Triggering Fines — But Neighbors Say They Didn't Mind",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/12/mumford-sons-kept-wrigleyville-awake-past-midnight-triggering-fines-but-neighbors-say-they-didnt-mind/",
+      "date": "2026-06-12",
+      "note": "A weather delay pushed a Mumford & Sons concert at Wrigley Field past its scheduled cutoff, triggering fines under the city's noise ordinance, though neighbors said late shows come with living next to the stadium."
+    },
+    {
+      "headline": "Wrigleyville Neighbors Demand Changes To Cubs Parking Lot Expansion",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/17/wrigleyville-neighbors-demand-changes-to-cubs-parking-lot-expansion/",
+      "date": "2026-07-17",
+      "note": "Neighbors met with the Cubs and the offices of Ald. Bennett Lawson and Ald. Angela Clay to push for landscaping, stormwater, and lighting conditions on a planned parking lot expansion near Wrigley Field."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Bennett R. Lawson",
+    "website_url": "https://www.44thward.org",
+    "verified": true,
+    "verification_note": "Ward data listed no website. Found https://www.44thward.org via search and fetched it directly this session. The site states 'Bennett Lawson was elected as the Alderman of Chicago's 44th Ward in 2023', confirming it's his official ward site."
+  },
+  "sources_fetched": [
+    "https://www.44thward.org",
+    "https://blockclubchicago.org/2026/07/28/lakeview-high-rise-proposal-moves-forward-with-design-changes-demolition-timeline/",
+    "https://blockclubchicago.org/2026/08/03/ann-sather-taking-over-stellas-diner-in-lakeview/",
+    "https://blockclubchicago.org/2026/06/12/mumford-sons-kept-wrigleyville-awake-past-midnight-triggering-fines-but-neighbors-say-they-didnt-mind/",
+    "https://blockclubchicago.org/2026/07/17/wrigleyville-neighbors-demand-changes-to-cubs-parking-lot-expansion/"
+  ]
+}

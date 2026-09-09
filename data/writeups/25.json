@@ -1,0 +1,50 @@
+{
+  "ward": "25",
+  "headline": "Ward 25 tests cleanest for regional air and near worst for closeness to heavy industry.",
+  "summary": "The city's environmental justice index is built from several separate measures, and for this ward they point in different directions. Ozone, a measure of regional ground-level air quality, ranks best in Chicago here. Proximity to major industrial emitters ranks 48th, and the index's own pollution-burden score ranks 47th, both near the bottom. All three numbers come from the same city assessment. Ozone drifts across a whole region and rarely tracks one neighborhood's industry, while a proximity score is built to measure exactly that, and this ward has industry to be near. The city opened a planning study this spring of Pilsen's industrial corridor, a stretch of roughly 1,000 acres of factories and rail lines inside the ward, which is precisely what a proximity or burden score is built to register, even while the air above the whole area tests clean.\n\nA second split runs through the ward's money, and it traces back to the officeholder rather than the neighborhood. More than half of this term's aldermanic menu money went to alley repair, one of the highest shares in the city, while street resurfacing got the smallest share of any ward, 3.2 percent. Both numbers record a choice made with one discretionary pot of cash. Five people are already running for the seat that makes that choice, and the current alderman hasn't said if he wants another term. One number here traces to neither money nor industry. Chronic school absenteeism, just under half of students missing 10 percent or more of the school year, is the second worst rate in Chicago, and nothing else on this page explains it.",
+  "reading_the_rankings": "Two of the ward's strongest-looking numbers reward a closer look. Third place for menu money spent on schools sounds like a real commitment, but the ward's own share is just 3.5 percent, and nearly every ward in Chicago is packed into that same narrow band, so third place separates almost nothing from fiftieth. Third place for participatory budgeting reads the same way. More than a dozen other wards land close enough in score to call it a tie, which makes giving residents a vote on menu money look like standard practice across Chicago rather than something this ward stands out for. Neither ranking is wrong. Both are measuring differences too small for the ordinal number to carry much meaning.",
+  "news": [
+    {
+      "headline": "Pilsen's Industrial Corridor Needs More Green Space, Less Polluters, Some Neighbors Say",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/14/pilsens-industrial-corridor-needs-more-green-space-less-polluters-some-neighbors-say/",
+      "date": "2026-05-14",
+      "note": "The city opened a planning study of Pilsen's 1,000-acre industrial corridor, and neighbors used the first meeting to push for more green space and fewer heavy polluters."
+    },
+    {
+      "headline": "This Pilsen-Based Indie Events Company Is Making A Splash On Chicago's Festival Scene",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/20/this-pilsen-based-indie-events-company-is-making-a-splash-on-chicagos-festival-scene/",
+      "date": "2026-05-20",
+      "note": "A small production company working out of a storefront on 18th Street is behind several of the city's fastest-growing festivals, including Michelada Fest."
+    },
+    {
+      "headline": "Explosion In Front Of Pilsen Alderman's Home Was An 'Act Of Political Violence,' He Says",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/14/explosion-in-front-of-pilsen-aldermans-home-was-an-act-of-political-violence-he-says/",
+      "date": "2026-06-14",
+      "note": "An explosive device went off near 21st Street and Damen Avenue early one Saturday, damaging a window, and police are investigating with no arrests reported yet."
+    },
+    {
+      "headline": "5 Candidates Are Running For 25th Ward Alderperson. But Will The Current Alder Run?",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/29/5-candidates-crowd-race-for-25th-ward-alderperson-a-potentially-open-race/",
+      "date": "2026-07-29",
+      "note": "Five candidates have entered the race for the ward's next aldermanic election, and the current officeholder has not yet said whether he'll seek another term."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Byron Sigcho-Lopez",
+    "website_url": "https://www.25thward.org",
+    "verified": true,
+    "verification_note": "Fetched https://www.25thward.org this session. The site names him directly, 'BYRON SIGCHO-LOPEZ Alderman of the 25th Ward.'"
+  },
+  "sources_fetched": [
+    "https://www.25thward.org",
+    "https://blockclubchicago.org/2026/05/14/pilsens-industrial-corridor-needs-more-green-space-less-polluters-some-neighbors-say/",
+    "https://blockclubchicago.org/2026/05/20/this-pilsen-based-indie-events-company-is-making-a-splash-on-chicagos-festival-scene/",
+    "https://blockclubchicago.org/2026/06/14/explosion-in-front-of-pilsen-aldermans-home-was-an-act-of-political-violence-he-says/",
+    "https://blockclubchicago.org/2026/07/29/5-candidates-crowd-race-for-25th-ward-alderperson-a-potentially-open-race/"
+  ]
+}

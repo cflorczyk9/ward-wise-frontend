@@ -1,0 +1,35 @@
+{
+  "ward": "23",
+  "headline": "Ward 23's fullest households and its heaviest car ownership are one fact stated twice.",
+  "summary": "Ward 23 ranks first in Chicago for the lowest share of one-person households, meaning shared and family households are more common here than in any other ward. It also ranks last for cars per household, the highest average vehicle count of any ward. Those two rankings are close to the same fact. A home holding more residents holds more potential drivers, so a ward built around larger households will naturally carry more cars per household than one full of people living alone, without any transit failure or car culture needed to explain the gap.\n\nA second signal shows up in how little of this ward is public space. It ranks last in Chicago for mapped parks, with just 4 inside its boundaries, and last for civic and cultural places, with 18 mapped total, and neither number carries a caveat the way most of this page's rankings do. The ward's most visible piece of civic life is a single Garfield Ridge senior center marking 30 years of service, the kind of load one building carries in a ward this thin on mapped gathering space. The 800 new housing units planned for the Archer Avenue corridor will add residents to a ward that already ranks last on parks and places before a single unit is built.",
+  "reading_the_rankings": "Two of the ward's six last-place finishes are softer than they look. The measure labeled review_count ties Ward 23 to the bottom of the city at a value of 1,070, but 36 of the 50 wards land within two points of that same score, so this last place stands on a difference that barely exists, closer to a rounding error than a real gap. The last-place finish for weekly bar visits comes from a demographic model rather than a survey of who actually went to a bar, and the source itself calls it low confidence, so it says more about wards shaped like this one on paper than about anyone's Friday night. Parks, civic and cultural places, and cars per household don't have that problem. All three are direct counts with no caveat attached, and all three land Ward 23 at the true bottom of the city.",
+  "news": [
+    {
+      "headline": "'Moving Archer Forward' Initiative Aims To Bring 800 New Housing Units To Archer Avenue",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/",
+      "date": "2026-07-13",
+      "note": "City and regional transit planners unveiled a long-range plan to redevelop the Archer Avenue corridor from Bridgeport to Garfield Ridge, with new housing, retail space and street upgrades."
+    },
+    {
+      "headline": "Garfield Ridge Satellite Center Celebrates 30 Years Serving Seniors",
+      "outlet": "Clear-Ridge Reporter & Newshound (via ward23.org)",
+      "url": "https://www.ward23.org/uploads/1/3/3/5/133511932/news_article.pdf",
+      "date": "2026-07-01",
+      "note": "The Garfield Ridge Satellite Center marked 30 years of serving seniors with a City Council resolution and a month of activities for older residents."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Silvana Tabares",
+    "website_url": "https://www.ward23.org/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Fetched https://www.ward23.org/ directly this session. The homepage header reads '23rd Ward Alderman Silvana Tabares' and its navigation and content refer throughout to the 23rd Ward, confirming it's her official site."
+  },
+  "sources_fetched": [
+    "https://www.ward23.org/",
+    "https://www.ward23.org/2026.html",
+    "https://www.ward23.org/uploads/1/3/3/5/133511932/news_article.pdf",
+    "https://blockclubchicago.org/2026/07/13/moving-archer-forward-initiative-aims-to-bring-800-new-housing-units-to-archer-avenue/"
+  ]
+}

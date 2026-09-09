@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% block title %}Ward Wise Penlight{% endblock %}</title>
+    {% block meta %}{% endblock %}
+    <link rel="icon" href="{{ url_for('static', filename='logo.svg') }}" type="image/svg+xml">
     {# Cascade order matters: the original sheet first, then the shared K3 shell
        (header + page chrome), then whatever the page itself adds. Page CSS
        loading last means it wins without specificity tricks. #}
@@ -25,6 +27,9 @@
       </a>
       <nav class="site-nav" aria-label="Main navigation">
         <a class="nav-link{% if request.endpoint == 'index' %} is-active{% endif %}" href="{{ url_for('index') }}">Explore</a>
+        <a class="nav-link{% if request.endpoint == 'reports' %} is-active{% endif %}" href="{{ url_for('reports') }}">Reports</a>
+        <a class="nav-link{% if request.endpoint == 'report' %} is-active{% endif %}" href="{{ url_for('report') }}">Quarterly</a>
+        <a class="nav-link{% if request.endpoint == 'menu' %} is-active{% endif %}" href="{{ url_for('menu') }}">Menu money</a>
         <a class="nav-link{% if request.endpoint == 'dictionary' %} is-active{% endif %}" href="{{ url_for('dictionary') }}">Dictionary</a>
         <a class="nav-link{% if request.endpoint == 'about' %} is-active{% endif %}" href="{{ url_for('about') }}">Support</a>
       </nav>
@@ -33,5 +38,13 @@
     {% block content %}{% endblock %}
 
     {% block scripts %}{% endblock %}
+
+    <footer>
+      <p>
+        Data from the <a href="https://penlight.wardwise.org">Ward Wise Penlight</a> API, a
+        <a href="https://chihacknight.org/">Chi Hack Night</a> project by Harry Brisson.
+        This is an independent reporting view built against that public API.
+      </p>
+    </footer>
   </body>
 </html>

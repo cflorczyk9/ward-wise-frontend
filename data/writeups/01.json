@@ -1,0 +1,42 @@
+{
+  "ward": "01",
+  "headline": "Ward 1 wins on the numbers you can count and loses on the ones a model guessed.",
+  "summary": "Ward 1's two best-rated categories, top coffee shops and top bars, are raw counts rather than rates, so any ward with a long stretch of commercial corridor has an edge over a ward that is mostly residential. This ward has that corridor. Block Club Chicago covered it twice in ward news this month, once for the car-free Meet Me on Milwaukee events returning across three Sundays in August, September and October, and once for a new pedestrian-only crossing phase headed to the Milwaukee, Damen and North intersection in Wicker Park. 36 top-rated coffee shops and 30 top-rated bars, both the most of any ward in the city, are the kind of count that corridor produces. 59 home-renovation permits in a single year, also a citywide high, point to the same thing from a different angle, a neighborhood still being built up rather than already finished.\n\nFour of the ward's six weakest scores come out of the same modeling exercise, a formula built from each area's demographic mix rather than a survey of anyone who actually lives here. It puts Ward 1 dead last of the 50 wards on time poverty, expecting more residents to get under two hours of daily leisure than anywhere else in the city. The same model puts it second-to-last on total leisure minutes and ties it for third-to-last on weekly religious attendance and on how strongly residents identify with that faith. A fifth weak score, a depression rate the data does not otherwise describe, lands in that same tied slot. The one weak measure built from something countable rather than modeled is parking. The ward's residential permit-zone block faces run close to the densest in the city, a scarcity signal for anyone circling the block for a spot.",
+  "reading_the_rankings": "Two of the ward's six best scores are thinner leads than a first-place finish suggests. The near-zero share of residents in an environmental-justice zone and the top mark for distance from industrial-risk sites both come from census-tract math spread evenly across each tract, so people near a tract's edge can get credited with a neighbor's numbers, and the source itself rates both figures low to medium confidence. 17 wards sit within two points of the EJ share and 27 sit within two points of the industrial-proximity score, with half the city's 50 wards packed into an 11-point band on that same measure, so first place here is a photo finish rather than a clean win. The ward's perfect participatory-budgeting score carries a different catch. It records a choice the alderman's office made about how to spend the ward's menu money, a fact about that office rather than about the neighborhood, and thirteen other wards sit inside a two-point band with that same perfect mark. The score still does real work. That participatory-budgeting vote is what funds the all-pedestrian crossing phase headed to the Milwaukee, Damen and North intersection, the project covered in this ward's recent news.",
+  "news": [
+    {
+      "headline": "Wicker Park's Six Corner Intersection Getting All-Pedestrian Crossing",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/16/wicker-parks-six-corner-intersection-getting-all-pedestrian-crossing-but-not-this-year/",
+      "date": "2026-07-16",
+      "note": "Ald. Daniel La Spata is pursuing an all-pedestrian crossing phase at the Milwaukee/Damen/North intersection, backed by a 2025 participatory budgeting vote, though a signal-hardware delay is likely to push installation to next year."
+    },
+    {
+      "headline": "40 Apartments, Including Rental Townhomes, Pitched For Vacant Logan Square Lot",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/14/40-apartments-including-rental-townhomes-pitched-for-vacant-logan-square-lot/",
+      "date": "2026-07-14",
+      "note": "A developer presented a 40-unit apartment and rowhome proposal for a vacant lot at Diversey and Mozart at a 1st Ward Office community meeting, with some neighbors raising parking and density concerns."
+    },
+    {
+      "headline": "Wicker Park's Car-Free 'Meet Me On Milwaukee' Events Return In August",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/14/wicker-parks-car-free-meet-me-on-milwaukee-events-return-in-august/",
+      "date": "2026-07-14",
+      "note": "The 1st Ward's car-free Milwaukee Avenue event series, run with the Wicker Park-Bucktown Chamber of Commerce, returns for three Sundays in August, September, and October."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Daniel La Spata",
+    "website_url": "https://www.the1stward.com/",
+    "verified": true,
+    "verification_note": "Fetched https://www.the1stward.com/ this session. The homepage identifies him as \"Alderman Daniel La Spata,\" names him the 1st Ward alderman, and notes he was elected in 2019."
+  },
+  "sources_fetched": [
+    "https://www.the1stward.com/",
+    "https://blockclubchicago.org/2026/07/16/wicker-parks-six-corner-intersection-getting-all-pedestrian-crossing-but-not-this-year/",
+    "https://blockclubchicago.org/2026/07/14/40-apartments-including-rental-townhomes-pitched-for-vacant-logan-square-lot/",
+    "https://blockclubchicago.org/2026/07/14/wicker-parks-car-free-meet-me-on-milwaukee-events-return-in-august/"
+  ]
+}

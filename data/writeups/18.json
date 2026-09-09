@@ -1,0 +1,54 @@
+{
+  "ward": "18",
+  "headline": "Almost no retail exists in Ward 18, and its high car ownership is the evidence.",
+  "summary": "Line up Ward 18's business-license counts and one fact explains most of the page. The ward ranks first in the city for having the fewest licensed tobacco retailers per resident, and it ranks dead last for licensed grocery stores, licensed entertainment venues, and both of the coffee-shop quality counts this project tracks. The 4.5-star bar and the easier 4-star bar turn up the same result, zero qualifying coffee shops here. All five numbers measure the same thing, how much retail exists in the ward, and the direction just depends on whether the retail type being counted is something residents want more of or less of. Fewer tobacco shops reads as a win. Fewer groceries, fewer places to sit with a drink, and no coffee shop that clears either quality bar all read as losses, but underneath, it is one ward with very little commercial activity of any kind.\n\nTwo more strengths describe the housing itself rather than the retail around it. Ward 18 also ranks first in the city for owner-occupancy, tracked by how often a home's tax bill goes to the same address as the property, though the underlying share is just 45.79 percent absentee-owned, meaning every other ward in Chicago does even worse on this measure. Only one demolition permit was issued in the ward's most recent full year, third-fewest citywide, another sign of a settled, low-turnover housing stock. The retail gap shows up again in car ownership. Vehicles per household rank 49th of 50, and because this measure scores fewer cars as the good outcome, 49th means close to the opposite of what the rank number suggests, one of the highest counts in the city, 1.7 vehicles per household, which is what you would expect where the nearest grocery store or coffee shop means a drive. Rent burden stands apart from everything above. Sixty-three percent of renter households here spend 30 percent or more of income on rent, the worst share of the fifty wards, with no other ward inside two points of it. That number points the opposite direction from a housing stock that otherwise looks settled and owner-held.",
+  "reading_the_rankings": "Two rankings are easy to misread as achievements or failures unique to Ward 18, and neither is what it looks like. The alderman's office spent almost all of the ward's roughly $1.5 million annual capital allotment last year, good for fourth in the city, but that is a record of the officeholder choosing to commit the money, not a condition of the ward itself. Sixteen wards cluster inside two points of Ward 18's own score here, nearly a third of the city spending its allotment at essentially the same clip, so fourth place means keeping pace with the pack rather than standing out from it. Entertainment venues sit at the very bottom for a different reason. Licensed theaters, music halls and event spaces are rare enough across all fifty wards that the middle of the field spans only about ten points and 16 wards bunch within two points of each other, meaning Ward 18's last-place finish here describes a citywide amenity that barely exists anywhere rather than a gap specific to this ward.",
+  "news": [
+    {
+      "headline": "Ford City Mall To Close In June",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/15/ford-city-mall-to-close-in-june-judge-rules/",
+      "date": "2026-05-15",
+      "note": "A Cook County judge ordered the Ashburn mall's tenants to evacuate over a defective fire suppression system, and Ald. Curtis called the ownership group slumlords."
+    },
+    {
+      "headline": "Ford City Mall Closes Ahead Of City-Ordered Deadline As Site's Future Remains Uncertain",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/22/ford-city-mall-closes-ahead-of-city-ordered-deadline-report/",
+      "date": "2026-06-22",
+      "note": "The mall closed for good ahead of the city's deadline, and Ald. Curtis said he was open to a developer's plan to demolish it for an industrial campus."
+    },
+    {
+      "headline": "South Siders Still Waiting For Tree Cleanup After June Storms, But City Departments Are 'Overwhelmed'",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/01/south-siders-still-waiting-for-tree-cleanup-after-june-storms-but-city-departments-are-overwhelmed/",
+      "date": "2026-07-01",
+      "note": "Ward 18 had more than 568 open tree-cleanup requests as of late June, the most of any South Side ward, after storm damage overwhelmed city crews."
+    },
+    {
+      "headline": "Honorary street designation as 'Reverend Darcell Morris'",
+      "outlet": "Chicago City Council (via Chicago Councilmatic)",
+      "url": "https://chicago.councilmatic.org/legislation/o2026-0026699/",
+      "date": "2026-07-15",
+      "note": "Ordinance O2026-0026699, introduced by Ald. Curtis, would recognize Reverend Darcell Morris with an honorary street designation."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Derrick G. Curtis",
+    "website_url": "https://www.derrickgcurtis.com",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Fetched chicago.gov/city/en/about/wards/18.html, which names 'Ward 18 Alderman Derrick G. Curtis' and lists ward18@cityofchicago.org as the ward office email. Fetched https://www.derrickgcurtis.com and https://www.derrickgcurtis.com/about, both titled '18th Ward Alderman Derrick G. Curtis' and listing the same ward18@cityofchicago.org contact address."
+  },
+  "sources_fetched": [
+    "https://www.chicago.gov/city/en/about/wards/18.html",
+    "https://www.derrickgcurtis.com",
+    "https://www.derrickgcurtis.com/about",
+    "https://chicago.councilmatic.org/person/curtis-derrick-g-10b32bc26e2c/",
+    "https://chicago.councilmatic.org/legislation/o2026-0026699/",
+    "https://blockclubchicago.org/2026/05/15/ford-city-mall-to-close-in-june-judge-rules/",
+    "https://blockclubchicago.org/2026/05/22/ford-city-malls-final-weeks-draw-shoppers-and-neighbors-ready-to-fight-plans-for-industrial-park/",
+    "https://blockclubchicago.org/2026/06/22/ford-city-mall-closes-ahead-of-city-ordered-deadline-report/",
+    "https://blockclubchicago.org/2026/07/01/south-siders-still-waiting-for-tree-cleanup-after-june-storms-but-city-departments-are-overwhelmed/"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ward": "37",
+  "headline": "Ward 37's air is clean and its crews are fast, but six other measures hit last place.",
+  "summary": "Ward 37's strongest and weakest numbers describe two different things. The ward's air and its city services hold up. Its ozone reading is the second cleanest in Chicago, the city closes graffiti removal requests here faster than almost anywhere else, and a bigger share of its menu money goes to sidewalk repair than in all but two other wards. None of that predicts what happens at the bottom of the page, where six separate measures finish last of fifty.\n\nTwo of those six, social cohesion and how many adults work with neighbors on anything communal, are not measurements taken in this ward at all. One is a ZIP-code stand-in for local social networks and the other is modeled from a national civic-engagement survey, and both carry the source's own low-confidence label, so they add up to one soft signal rather than two separate failures. The other four are harder to set aside. Licensed bars run at 0.17 per 10,000 residents, the local schools post the lowest share of students meeting state standards of any ward at 19.7 percent, and the houses of worship here cluster inside a narrow set of traditions, the lowest denominational-diversity score in Chicago. Bank branches finish last as well, on a count that is built from ZIP code areas and rated low confidence by its own source.",
+  "reading_the_rankings": "Two of Ward 37's numbers need context before they mean much. Fifth place for wastewater proximity sounds like clean streams, but the score is allocated by census tract rather than measured at the ward line, and thirty-five wards score within two points of Ward 37 on it. It also sits next to a real story from this summer, when the city opened an emergency underground stormwater system nearby after near-record rain strained the reservoirs. A clean pollution index and a strained drainage system can both be true at once. Last place for bank branches has a similar catch. The figure works out to 0.29 branches per 10,000 residents, it comes from ZIP code areas that do not follow the ward's actual borders, the source itself rates it low confidence, and the middle half of Chicago's wards sits inside four points on it. The rank says as much about how the number gets built as it does about banking access.",
+  "news": [
+    {
+      "headline": "City Rolls Out Stormwater Storage System On West Side After Near-Record Rainfall Strains Reservoirs",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/10/city-rolls-out-stormwater-storage-system-on-west-side-after-near-record-rainfall-strains-reservoirs/",
+      "date": "2026-07-10",
+      "note": "The city switched on a new underground stormwater storage pilot built to protect close to 3,000 homes across the 28th, 29th, and 37th wards after a weekend of near-record rainfall pushed the region's reservoirs close to capacity."
+    },
+    {
+      "headline": "Austin's Frank Lloyd Wright House, Among City's Most Endangered Buildings, Bought By Nonprofit",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/24/austins-frank-lloyd-wright-house-among-citys-most-endangered-buildings-bought-by-nonprofit/",
+      "date": "2026-06-24",
+      "note": "Austin Coming Together bought the J.J. Walser House, the West Side's only Frank Lloyd Wright-designed single-family home, and plans a multimillion-dollar restoration after years of disrepair."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Emma Mitts",
+    "website_url": "https://www.cityofchicago.org/city/en/about/wards/37.html",
+    "verified": true,
+    "verification_note": "Fetched this URL directly in this session (it redirects to https://www.chicago.gov/city/en/about/wards/37.html). The page's own meta description reads 'Chicago Aldermanic Ward 37 served by Alderman Emma Mitts,' confirming the site names her as the ward's alderperson."
+  },
+  "sources_fetched": [
+    "https://www.cityofchicago.org/city/en/about/wards/37.html",
+    "https://www.chicago.gov/city/en/about/wards/37.html",
+    "https://blockclubchicago.org/tag/37th-ward/",
+    "https://blockclubchicago.org/?s=Emma+Mitts",
+    "https://blockclubchicago.org/?s=Austin",
+    "https://blockclubchicago.org/?s=West+Garfield+Park",
+    "https://blockclubchicago.org/?s=Humboldt+Park",
+    "https://blockclubchicago.org/?s=%2237th+Ward%22",
+    "https://blockclubchicago.org/2026/06/24/austins-frank-lloyd-wright-house-among-citys-most-endangered-buildings-bought-by-nonprofit/",
+    "https://blockclubchicago.org/2026/07/10/city-rolls-out-stormwater-storage-system-on-west-side-after-near-record-rainfall-strains-reservoirs/"
+  ]
+}

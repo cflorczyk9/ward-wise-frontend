@@ -1,0 +1,48 @@
+{
+  "ward": "50",
+  "headline": "Ward 50 tops Chicago on everyday life and shares its worst rankings with half the city.",
+  "summary": "Six different measures put Ward 50 first in the city, and most of them describe something a resident runs into directly. More licensed grocery stores serve people here than in any other ward, and the area also reports the widest range of home languages spoken anywhere in Chicago. The two numbers describe the same kind of place, a retail corridor built for many communities rather than one. Trust in local government also ranks first here, at 54 percent, and the ward's places carry the highest average rating in the city, 4.75 out of 5. The ward's houses of worship land first on two separate measures at once, the most congregations rated 4.8 or higher and the most Google reviews per resident of any worship places in Chicago. That is a single strength in the ward's religious life, showing up as two different numbers on the scorecard.\n\nThe ward's six weakest rankings look damning until you check how many other wards share the same zero. No museum and no yoga or pilates studio is mapped here, but twenty-two and fifteen other wards report those same zeros. The ward spent nothing from its menu money on parks or on schools, and those two categories sit near zero almost everywhere in Chicago, with forty wards matching the park number and forty-six matching the school one. Participatory budgeting works the same way. Most wards in Chicago run no such process at all, so a last-place finish here is really a tie with most of the city, not a mark against this one specifically.",
+  "reading_the_rankings": "Two of the ward's rank-1 finishes deserve a second look before they read as clean wins. The grocery-store count leads the city, but Chicago redrew ward boundaries in 2023, the business-license data behind it earns only a medium confidence mark from the agency that compiles it, and a license count counts storefronts rather than shelf space, so first place describes today's ward lines against a rough proxy rather than a settled fact about food access here. The worship-engagement number looks just as commanding, most reviews per resident of any worship places in the city, but the middle half of all fifty wards is packed into a window just 6.8 points wide on this measure. That means the whole city scores close together here, so first place is a narrow edge over dozens of wards rather than a runaway lead.",
+  "news": [
+    {
+      "headline": "Services announced for veteran Chicago firefighter who died during training exercise in West Ridge",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/news/2026/05/18/services-announced-for-veteran-chicago-firefighter-who-died-during-training-exercise-in-west-ridge",
+      "date": "2026-05-18",
+      "note": "A nearly 30-year Chicago Fire Department engineer based at West Ridge's Engine Company 71 died after being injured in a training exercise, with visitation and funeral services held in the neighborhood."
+    },
+    {
+      "headline": "West Ridge mural that celebrates Holi led to an unexpected connection",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/murals/2026/05/22/chicago-murals-west-ridge-holi-jenny-vyas",
+      "date": "2026-05-22",
+      "note": "A new mural at Devon Avenue and Rockwell Street, inspired by the Hindu festival of Holi, led the artist to an unexpected personal connection with a neighbor."
+    },
+    {
+      "headline": "Man critical following West Ridge stabbing",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/crime/2026/07/01/man-critical-following-west-ridge-stabbing",
+      "date": "2026-07-01",
+      "note": "A 26-year-old man was critically injured in a stabbing on the 6200 block of North Oakley Avenue in West Ridge."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Debra L. Silverstein",
+    "website_url": "http://50thwardchicago.com",
+    "verified": true,
+    "verification_note": "Fetched http://50thwardchicago.com directly this session, which redirects to http://50thward.org/. That page's heading reads 'Meet Alderman Debra Silverstein' and its photo captions label her 'Alderman, City Council, City of Chicago.' The Sun-Times North Park listing page (chicago.suntimes.com/north-park), also fetched this session, independently attributes a grocery-store proposal in the ward to 'Ald. Debra Silverstein,' matching the ward data."
+  },
+  "sources_fetched": [
+    "http://50thwardchicago.com",
+    "http://50thward.org/",
+    "https://chicago.suntimes.com/west-ridge",
+    "https://chicago.suntimes.com/north-park",
+    "https://chicago.suntimes.com/murals/2026/05/22/chicago-murals-west-ridge-holi-jenny-vyas",
+    "https://chicago.suntimes.com/news/2026/05/18/services-announced-for-veteran-chicago-firefighter-who-died-during-training-exercise-in-west-ridge",
+    "https://chicago.suntimes.com/crime/2026/07/01/man-critical-following-west-ridge-stabbing",
+    "https://blockclubchicago.org/category/lincoln-square-north-center-irving-park/",
+    "https://blockclubchicago.org/2026/05/15/300-unit-housing-complex-could-be-coming-to-busy-lincoln-square-corner-alderman-says/",
+    "https://blockclubchicago.org/2026/05/22/atelier-lincoln-squares-michelin-starred-restaurant-has-closed/"
+  ]
+}

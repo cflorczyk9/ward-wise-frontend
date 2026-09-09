@@ -1,0 +1,42 @@
+{
+  "ward": "24",
+  "headline": "Ward 24 tops Chicago in churches and school funding, and ranks worst on pollution.",
+  "summary": "Chicago draws its fifty wards to hold roughly the same number of residents, so a ward that leads the city on the raw count of something almost always leads on the per-capita version of it too. Ward 24's 101 mapped faith institutions and its top rank for worship places per resident are the same fact counted two ways. The ward also spends more per student than any other school system in the city, $23,663, and ranks first for grocery access. Those numbers describe what got built here. A different kind of number describes something else. A statistical model built from the ward's demographic makeup predicts more evenings spent with neighbors here than in almost any other ward in Chicago, and the same model, fed the same inputs, predicts the least trust in those neighbors of anywhere in the city. Neither number comes from asking a resident anything. They are two outputs of one formula, and the formula disagrees with itself.\n\nThe ward's worst numbers cluster the same way its best ones do. Its score on the city's environmental justice index and its share of residents living inside an EJ-designated area are drawn from the same pollution assessment, so a worst-in-the-city rank on one all but guarantees a worst-in-the-city rank on the other, and Ward 24 has both. That pattern holds up even without the demographic model behind it. Two of the ward's other bottom rankings start from health surveys that ask residents directly, then get spread across census tracts to reach the ward line. The share of adults reporting frequent mental distress is the highest of any ward in Chicago, and the share who say they feel part of their neighborhood is the lowest. New construction is landing on that same baseline right now. The city broke ground this summer on nine three-flats in North Lawndale, 27 units total, and the council approved a six-story, 59-unit building on a nearby vacant lot, both inside the ward the pollution data ranks worst in Chicago.",
+  "reading_the_rankings": "Two of these rankings deserve a second look before taking them at face value. The 1st-place rank for grocery stores per resident comes from a source that counts businesses by ZIP code, and ZIP codes don't follow ward lines, so some of that count may really belong to a store just over the boundary in a neighboring ward, and the source itself rates the measure low confidence. The 2nd-place rank for evenings spent with neighbors and the 50th-place rank for trust in those same neighbors look like they contradict each other, and in a sense they do, but both come from one statistical model, run on the same demographic inputs, describing what a ward shaped like this one usually looks like rather than anything counted or asked of an actual Ward 24 resident. Read as two predictions from a single formula instead of two separate community facts, and the contradiction becomes a property of the model rather than a mystery about the neighborhood.",
+  "news": [
+    {
+      "headline": "'Missing Middle' Housing Program Breaks Ground On 27 Units In North Lawndale",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/01/missing-middle-housing-program-breaks-ground-on-27-units-in-north-lawndale/",
+      "date": "2026-07-01",
+      "note": "The city broke ground on nine three-flats in North Lawndale as part of a 'Missing Middle' affordable housing program, with Ald. Monique Scott speaking at the event."
+    },
+    {
+      "headline": "Southside Blooms Expands Its Nationally Renowned Farm-To-Vase Operation To North Lawndale",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/24/southside-blooms-expands-its-nationally-renowned-farm-to-vase-operation-to-north-lawndale/",
+      "date": "2026-06-24",
+      "note": "A flower-farming nonprofit based in Englewood opened a second, larger location in North Lawndale for its retail and wholesale operations."
+    },
+    {
+      "headline": "Mixed-Use 'Lawndale ReDefined' Apartment Building Gets City Council Approval",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/15/mixed-use-lawndale-redefined-apartment-building-gets-city-council-approval/",
+      "date": "2026-07-15",
+      "note": "The City Council approved zoning for a six-story, 59-unit mixed-income apartment building on a vacant lot in North Lawndale, with most units set aside as affordable."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Monique L. Scott",
+    "website_url": "https://aldermanscott.com/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Fetched https://aldermanscott.com/ directly this session. The homepage states 'Alderwoman Monique Scott is committed to serving the residents of Chicago's 24th Ward' and lists a 24th Ward office address, confirming it's her official site."
+  },
+  "sources_fetched": [
+    "https://aldermanscott.com/",
+    "https://blockclubchicago.org/2026/07/01/missing-middle-housing-program-breaks-ground-on-27-units-in-north-lawndale/",
+    "https://blockclubchicago.org/2026/06/24/southside-blooms-expands-its-nationally-renowned-farm-to-vase-operation-to-north-lawndale/",
+    "https://blockclubchicago.org/2026/07/15/mixed-use-lawndale-redefined-apartment-building-gets-city-council-approval/"
+  ]
+}

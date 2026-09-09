@@ -1,0 +1,42 @@
+{
+  "ward": "26",
+  "headline": "Ward 26's independent businesses lead the city while its street repairs lag it most.",
+  "summary": "Ward 26's strongest rankings all describe the same kind of neighborhood, one where people spend money at places somebody nearby actually owns. Independent restaurants outnumber chains here more than in any other ward, independents hold a bigger share of the licensed food stores than in all but one other ward, and the ward's houses of worship rate second-highest in Chicago on Google. Its bars rate near the top too, among the wards with enough listed to compare. The Puerto Rican Parade returned to the Division Street corridor this summer, the same strip of small, individually run shops those business-license counts are describing. Those counts rest on softer ground than the repair numbers below. They come from a ward boundary that predates the 2023 redrawing, and the office that compiled them rates its own confidence as medium, so the wide lead at the top is less solid than first place implies.\n\nThe weak rankings point at streets too, but from two different directions. Two of them track the same pot of money, the roughly $1.5 million the alderperson's office spends each year on ward projects, and they pull against each other. That money is more spread out across the ward, adjusted for its size and shape, than in any other ward in Chicago, yet only 16.4 percent of it went to street resurfacing, one of the smallest shares in the city. Both numbers describe a choice made in the alderperson's office, not a condition in the neighborhood. The city's own repair queue is a separate matter, and it is the slowest anywhere. Pothole requests take more than 60 days to close, worst of the fifty, and general 311 requests average 16.3 days, second worst. How long city crews take to show up once someone calls has nothing to do with how the ward's own money gets spent.",
+  "reading_the_rankings": "Two rankings here look worse than they are. Menu budget utilization reads like an underspent account because it sits near the bottom of the city's ranking, but the ward actually committed 85.3 percent of its roughly $1.5 million yearly allotment to projects, real follow-through that ranks low only because most other wards spent an even higher share of theirs. Yoga and pilates studios read the opposite way. Ward 26 sits near the bottom of that ranking with zero studios per 10,000 residents, but a two-point spread covers fifteen other wards at that same number, close to a third of the city bunched at the same floor, so the rank implies the ward stands out for an absence that is actually common.",
+  "news": [
+    {
+      "headline": "Puerto Rican Parade And Fest Returns With Launch Of 'DIGNIDAD' Mobile Artwork",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/09/puerto-rican-parade-and-fest-returns-this-weekend-with-launch-of-mobile-artwork-dignidad/",
+      "date": "2026-06-09",
+      "note": "The 48th annual Puerto Rican parade returned to the Division Street corridor in Humboldt Park, with a large new mobile artwork touring on a flatbed truck."
+    },
+    {
+      "headline": "Humboldt Park Bathrooms Open For Summer",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/29/humboldt-park-washrooms-open-for-summer-season/",
+      "date": "2026-06-29",
+      "note": "Four of the five public restrooms at Humboldt Park reopened for the season, including one near the basketball courts that had stayed closed for years."
+    },
+    {
+      "headline": "Avondale, Humboldt Park Projects OK'd By Council Include Housing And Animal Rescue Expansion",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/20/avondale-humboldt-park-projects-okd-by-council-include-housing-and-animal-rescue-expansion/",
+      "date": "2026-05-20",
+      "note": "City Council approved a $12 million health and job training facility for a local nonprofit at 3446 W. North Ave. in Humboldt Park."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Jessica L. Fuentes",
+    "website_url": "https://www.the26thward.org/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Found and fetched https://www.the26thward.org/ this session, the ward office's own site, titled '26th Ward Alderperson Jessie Fuentes' and naming her directly as alderperson. This is the official ward office site, separate from her campaign site jessiefor26thward.com."
+  },
+  "sources_fetched": [
+    "https://www.the26thward.org/",
+    "https://blockclubchicago.org/2026/06/09/puerto-rican-parade-and-fest-returns-this-weekend-with-launch-of-mobile-artwork-dignidad/",
+    "https://blockclubchicago.org/2026/06/29/humboldt-park-washrooms-open-for-summer-season/",
+    "https://blockclubchicago.org/2026/05/20/avondale-humboldt-park-projects-okd-by-council-include-housing-and-animal-rescue-expansion/"
+  ]
+}

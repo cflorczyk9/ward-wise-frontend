@@ -1,0 +1,36 @@
+{
+  "ward": "31",
+  "headline": "Ward 31's two parking measures agree, ruling out the easy excuse for either one.",
+  "summary": "Every parking measure Ward 31 tracks lands in last place, and the two ways it gets there close off the easiest excuse for either result. One counts parking complaints against the ward's physical area. The other asks what share of everything the ward reports to 311, potholes, rodents, streetlights, all of it, is about parking specifically. A ward that simply files more 311 complaints than anywhere else could top the first measure without topping the second, since the share measure already divides by its own total volume. Ward 31 finishes last on both, so the complaints concentrate on parking itself, more than in any other ward in Chicago, rather than reflecting a ward that reports more of everything.\n\nThe ward is fast at fixing what is already there. Streetlight-outage requests close in under two days on average, one of the quickest turnarounds in the city. A planned piece of new infrastructure tells a different story. A traffic signal at Belmont and Kilbourn in Hermosa had been planned since 2023 and was still not installed this June, when a 62-year-old woman was struck and killed crossing that intersection. Keeping existing equipment running and building something that was not there yet are two different kinds of city response, and only one of them is fast here. Two more of the ward's worst rankings stand on their own rather than pairing with anything else on this page. An estimated 18.3 percent of residents carry no health insurance, the highest uninsured share of the fifty, and rodent baiting requests take longer to close here than anywhere else in the city. Neither shares a data source or a cause with the parking numbers or with each other. They are just two more places this ward finishes last.",
+  "reading_the_rankings": "The lowest measured exposure to polluted sites, first of fifty, is the ranking most likely to read as a clean bill of health for the ward, but the source grades its own confidence as medium, a few wards never reported a number for this measure at all, and the figure is allocated from census-tract shapes that were not built to match ward boundaries. A first-place rank here is a real signal of low industrial exposure, not a certified one. New housing tells the opposite story. A single permit pulled here last year is the fewest of any ward, but the ranking says less than the number of wards packed in right behind it. Twenty-nine other wards fall within two points of this same score, and the middle half of the fifty wards citywide sits inside a five-point band on this measure. Last place here is a real number, one permit, but it belongs to a citywide slump rather than a problem unique to this ward.",
+  "news": [
+    {
+      "headline": "Woman Killed At Busy NW Side Intersection Where Planned Traffic Light Was Never Installed",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/03/woman-killed-at-busy-nw-side-intersection-where-planned-traffic-light-was-never-installed/",
+      "date": "2026-06-03",
+      "note": "A 62-year-old woman was fatally struck by a driver in Hermosa at Belmont and Kilbourn, an intersection where a traffic signal has been planned since 2023."
+    },
+    {
+      "headline": "Ordinance Would Allow More Package Liquor Licenses On West Belmont Avenue",
+      "outlet": "Chicago City Council (legislative record)",
+      "url": "https://chicago.councilmatic.org/legislation/o2026-0026550/",
+      "date": "2026-07-15",
+      "note": "The ward's alderman co-sponsored a City Council ordinance amending the municipal code to allow additional package goods licenses on part of West Belmont Avenue."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Felix Cardona Jr.",
+    "website_url": "https://www.ward31.org/",
+    "verified": true,
+    "verification_note": "Fetched https://www.ward31.org/ directly this session. It is the official City of Chicago 31st Ward hub and names Felix Cardona as the ward's alderman. The wards.json data had no website on file for this ward, so this one was found and verified fresh."
+  },
+  "sources_fetched": [
+    "https://www.ward31.org/",
+    "https://blockclubchicago.org/tag/31st-ward/",
+    "https://blockclubchicago.org/2026/05/22/avondale-townhome-apartment-development-approved-by-plan-commission/",
+    "https://chicago.councilmatic.org/legislation/o2026-0026550/",
+    "https://blockclubchicago.org/2026/06/03/woman-killed-at-busy-nw-side-intersection-where-planned-traffic-light-was-never-installed/"
+  ]
+}

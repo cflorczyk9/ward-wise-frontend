@@ -1,0 +1,42 @@
+{
+  "ward": "04",
+  "headline": "Ward 4 leads Chicago in landmarks, then lags on the numbers that track daily life.",
+  "summary": "Three of Ward 4's best marks are just different ways of counting structures. It has more mapped landmarks than any other ward, 130 of them, and more mapped civic, cultural, and public places too, 212, both first in the city. A separate 1983-to-1995 survey of significant buildings built before 1940 counts 755 of them here, the second-highest total in the fifty. The landmark count and the places-of-interest count don't carry equal weight, though. The middle half of all fifty wards falls inside a tight six-point band on landmark count, so first place there is a narrow lead inside a bunched field. Places of interest spreads almost 28 points across that same middle half, so Ward 4's first-place finish on that count is a clearer, wider lead. Oakland added to that count this summer, putting up an honorary street sign for a self-taught sculptor whose outdoor art installations have stood in the neighborhood since the 1990s, one more addition to a ward that already counts more mapped landmarks and public places than any other in the city.\n\nNone of that density shows up in the numbers that describe daily life here. Chain stores dominate the ward's food retail on both counts the city keeps. About six in ten food-licensed businesses belong to a chain rather than an independent owner, and stores belonging to one of the 100 largest chains nationally make up about 21 percent of the total, the second-highest share of any ward on that specific count. School attendance points the same direction. Nearly half the students at schools serving this ward, 47.6 percent, miss a tenth or more of the school year, one of the worst rates in Chicago. The two records, the most landmarks of any ward and one of the worst attendance rates, describe the same fifty blocks.",
+  "reading_the_rankings": "Two more rankings deserve a second look. Second place for distance to Lake Michigan sounds like a near-monopoly on the shoreline, but seven wards land within two points of Ward 4 on this measure, so it's one of several wards sitting close to the water rather than a clear runner-up. Second place on menu-budget use, the alderperson committing the full annual capital allotment rather than leaving money on the table, carries the same crowding problem, with sixteen wards inside two points of this score. That number is also a record of one office's choices rather than a fact about the neighborhood, and part of the trend behind it belongs to a ward whose boundaries changed in the 2023 redraw.",
+  "news": [
+    {
+      "headline": "Heading To 31st Street Beach This Summer? Expect To See More Cops, Says Alderman",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/12/heading-to-31st-street-beach-this-summer-expect-to-see-more-cops-says-alderman/",
+      "date": "2026-05-12",
+      "note": "Ald. Lamont Robinson said police presence would increase at 31st Street Beach for the summer season after past violent incidents and large teen gatherings there."
+    },
+    {
+      "headline": "Printers Row Sports Bar Reserv Faces Eviction Amid Noise Complaints, Wage Theft Allegations",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/15/printers-row-sports-bar-faces-eviction-amid-noise-complaints-wage-theft-allegations/",
+      "date": "2026-07-15",
+      "note": "A Printers Row bar received an eviction notice over unpaid rent, months after neighbors petitioned the city over noise complaints and former employees alleged wage theft."
+    },
+    {
+      "headline": "Southeast Side 'pocket garden' is testament to self-taught chainsaw artist Milton Mizenburg",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/art/2026/07/02/milton-mizenburg-artist-pocket-garden-oakland-southeast-side",
+      "date": "2026-07-02",
+      "note": "The Oakland neighborhood dedicated an honorary street sign to sculptor Milton Mizenburg Jr., whose outdoor art installations have stood in the community since the 1990s."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Lamont J. Robinson",
+    "website_url": "https://www.robinson4thward.com/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Found https://www.robinson4thward.com/ by search and fetched it directly this session. It identifies itself as Alderman Lamont Robinson's 4th Ward site, lists the ward office contact as ward04@cityofchicago.org, and links to his official social accounts."
+  },
+  "sources_fetched": [
+    "https://www.robinson4thward.com/",
+    "https://blockclubchicago.org/2026/05/12/heading-to-31st-street-beach-this-summer-expect-to-see-more-cops-says-alderman/",
+    "https://blockclubchicago.org/2026/07/15/printers-row-sports-bar-faces-eviction-amid-noise-complaints-wage-theft-allegations/",
+    "https://chicago.suntimes.com/art/2026/07/02/milton-mizenburg-artist-pocket-garden-oakland-southeast-side"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "ward": "05",
+  "headline": "Ward 5's cleanest-air and emptiest-housing rankings come from the same quiet fact.",
+  "summary": "Ward 5's six best scores split into two groups, and one of its worst rankings belongs with them. Four of the best, its modeled cancer risk from air toxics, its distance from major polluting facilities, its pollution-burden score, and its distance from Toxic Release Inventory sites, all come from the same environmental index and all land the ward in first place citywide. Hyde Park and Woodlawn grew up around the University of Chicago as residential and institutional ground rather than an industrial corridor, consistent with a ward that never accumulated the kind of major-emitter sites that pull other wards' scores down. The fifth best score follows a related logic. Only one demolition permit was issued here last year, also a first-place finish, and two of the ward's worst rankings run close to the same math in reverse. Housing construction investment came in near zero, about three thousand dollars for the year, and only an estimated one new housing unit got permitted. Almost nothing gets torn down in Ward 5, and almost nothing new goes up either.\n\nTwo more of the ward's weak rankings point at the same quiet commercial pattern. Bars and taverns per resident rank last in the city, and chain outlets make up a bigger share of local restaurants than in 48 other wards, both signs of a retail scene that isn't drawing new investment or turnover. Ald. Yancy raised almost exactly this at a South Shore press conference in July, when he and local business owners pushed the city to ease the licensing and permitting rules they say are holding back independent businesses. Housing adds a second real story on top of the empty permit count. The Sun-Times reported in June that the Obama Center's opening is pushing existing Woodlawn units toward Airbnb conversion, with affordable units disappearing according to housing advocates quoted in the piece, and nothing in Ward 5's building data shows new supply arriving to offset it. Chronic absenteeism stands apart from all of it. Just under 48 percent of students at the ward's schools missed 10 percent or more of the school year, third-worst in the city, with nothing else on this scorecard to explain why.",
+  "reading_the_rankings": "Two rankings here are easy to misread. The attendance score, first in the city, only counts how often the council seat was filled. Whether anything substantive happened once it was filled is a separate question, and the same office ranks 49th of 50 on non-routine bills sponsored this session, the more direct measure of legislative output. The last-place rank on housing construction investment is also weaker in position than in substance. Thirty wards fall within two points of Ward 5's score, and the whole middle half of the city sits inside a four-point band, so finishing last here mostly means landing in a crowd near the bottom rather than standing out alone at the floor.",
+  "news": [
+    {
+      "headline": "Ald. Desmon Yancy: The city's response to the recurring crisis of 'teen takeovers' is inadequate",
+      "outlet": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/06/02/opinion-chicago-teen-takeover-response-inadequate/",
+      "date": "2026-06-02",
+      "note": "Opinion piece by the 5th Ward alderman arguing the city's response to large teen gatherings has been too slow."
+    },
+    {
+      "headline": "Chicago Memorial Day weekend 'teen trends' and mass gatherings end in violence and spark backlash",
+      "outlet": "Chicago Tribune",
+      "url": "https://www.chicagotribune.com/2026/05/26/teen-gathering-hyde-park/",
+      "date": "2026-05-26",
+      "note": "News coverage of a large teen gathering at 57th Street Beach in Hyde Park that grew chaotic, with comments from Ald. Yancy on the response."
+    },
+    {
+      "headline": "Obama Center spurs a boom in Airbnbs, housing advocates say affordable units are disappearing",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/real-estate/2026/06/05/barack-obama-airbnb-presidential-center-chicago-affordable-housing-displacement-gentrification",
+      "date": "2026-06-05",
+      "note": "Reporting on short-term rentals near the Obama Center in Woodlawn, including Ald. Yancy's comments on the city's Shared Housing Ordinance."
+    },
+    {
+      "headline": "Chicago Needs A 'Small Business Bill Of Rights' To Reduce Red Tape, Local Leaders Say",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/15/chicago-needs-a-small-business-bill-of-rights-to-reduce-red-tape-local-leaders-say/",
+      "date": "2026-07-15",
+      "note": "Coverage of a South Shore press conference where Ald. Yancy and business owners unveiled a proposed resolution to ease city licensing and permitting rules."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "website_url": "https://www.chicago.gov/city/en/about/wards/05.html",
+    "verified": true,
+    "verification_note": "No standalone ward office site exists for Ward 5. This is the City of Chicago's official ward directory page, confirmed live and naming Alderman Desmon C. Yancy for Ward 5."
+  },
+  "sources_fetched": [
+    "https://5thwardchicago.org/the-alderman/",
+    "https://5thwardchicago.org/",
+    "https://5thwardchicago.org/lander",
+    "https://www.chicago.gov/city/en/about/wards/05.html",
+    "https://www.facebook.com/AlderYancy5/",
+    "https://www.chicagotribune.com/2026/06/02/opinion-chicago-teen-takeover-response-inadequate/",
+    "https://www.chicagotribune.com/2026/05/26/teen-gathering-hyde-park/",
+    "https://chicago.suntimes.com/real-estate/2026/06/05/barack-obama-airbnb-presidential-center-chicago-affordable-housing-displacement-gentrification",
+    "https://blockclubchicago.org/2026/07/15/chicago-needs-a-small-business-bill-of-rights-to-reduce-red-tape-local-leaders-say/"
+  ]
+}

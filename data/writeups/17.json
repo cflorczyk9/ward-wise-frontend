@@ -1,0 +1,46 @@
+{
+  "ward": "17",
+  "headline": "Ward 17's clearest strength is its churches, and its clearest weakness is absenteeism.",
+  "summary": "Two of Ward 17's best numbers describe the same fact from two directions. Ninety-six mapped houses of worship put it second in the city on a straight count, and the ward finishes second again once that count is divided by population, so scale and rate agree instead of telling separate stories. The other strength at the top, 97 percent council attendance, is a record that belongs to the alderman's office rather than to the people living here. Two service numbers land in the top three as well. Pothole repairs close in about four days, third-fastest in the city, and the citywide range on that measure is wide enough for third place to mean something real. Park acreage per resident also ranks third, but the middle of the city bunches inside an eleven-point band on that one, so third here means keeping pace with a tight pack rather than pulling ahead of it.\n\nThe six last-place finishes split into three different kinds of number. Three of them, civic engagement, short sleep, and the share of workers who walk or bike to their jobs, share one method, Census tract totals divided onto ward boundaries by area on the assumption that everyone inside a tract is spread out evenly. That method can shift a figure at the edges, but it cannot invent one. Fewer than one worker in a hundred walks or bikes to a job here, and no redraw of tract lines turns that into a middling number. Two more, mental health providers and liquor-licensed restaurants, are counted directly through real licenses and listings, and each lands inside a crowd. On providers, twenty-two wards are packed inside a two-point band with Ward 17 at the bottom of it, which makes the shortage a citywide one that this ward sits at the worst end of. Liquor-licensed restaurants repeat the pattern on a smaller scale, eleven wards bunched together at the floor. Chronic absenteeism stands apart from both groups. No other ward comes close to Ward 17's score here, and 52 percent of students at ward schools missed at least a tenth of the school year, the one number on this list with nothing else nearby.",
+  "reading_the_rankings": "The number a resident is likeliest to feel good about is time poverty. Ward 17 ranks second in the city here, with 17.7 percent of adults predicted to get under two hours of free time a day, a figure built from a national time-use model applied to local demographics rather than a survey taken here. The group that built it rates its own confidence low, the same rating attached to the tract-based estimate that puts civic engagement dead last a few rows down. Read together, the ward's best score and one of its worst both describe a statistical model rather than a resident's actual week, so neither is strong evidence about how life here really feels.",
+  "news": [
+    {
+      "headline": "7 Save A Lot Stores On South, West Sides Could Close In Days As Owners Face 'Financial Headwinds'",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/21/7-save-a-lot-stores-on-south-west-sides-could-close-in-days-as-owners-face-financial-headwinds/",
+      "date": "2026-07-21",
+      "note": "Financial strain at Yellow Banana put its Save A Lot stores at risk of closing, including two in Auburn Gresham where Ald. Moore was quoted about the situation."
+    },
+    {
+      "headline": "Commemoration of 60th anniversary of March of Marquette Park and recognition of legacies of Dr. Martin Luther King Jr. and Al Raby",
+      "outlet": "Chicago City Council (via Chicago Councilmatic)",
+      "url": "https://chicago.councilmatic.org/legislation/r2026-0026811/",
+      "date": "2026-07-15",
+      "note": "Resolution R2026-0026811, sponsored by Ald. Moore, marked the march's 60th anniversary and was adopted by the full council."
+    },
+    {
+      "headline": "Congratulations extended to Leo Catholic High School on 100th anniversary",
+      "outlet": "Chicago City Council (via Chicago Councilmatic)",
+      "url": "https://chicago.councilmatic.org/legislation/r2026-0026795/",
+      "date": "2026-07-15",
+      "note": "Resolution R2026-0026795, sponsored by Ald. Moore, was adopted by the full council."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "David H. Moore",
+    "website_url": "https://www.17thwardalderman.com/",
+    "verified": true,
+    "verification_note": "wards.json listed a malformed URL (http://www.David.Moore@cityofchicago.org), so this was treated as effectively missing and a real site was located and verified. Fetched chicago.gov/city/en/about/wards/17.html, which names 'Ward 17 Alderman David Moore.' Fetched https://www.17thwardalderman.com/, whose header reads 'Chicago 17th Ward Alderman David Moore' and whose footer reads '17th Ward Alderman - David Moore, All rights Reserved 2026.'"
+  },
+  "sources_fetched": [
+    "https://www.chicago.gov/city/en/about/wards/17.html",
+    "https://www.17thwardalderman.com/",
+    "https://www.17thwardalderman.com/events",
+    "https://www.17thwardalderman.com/news",
+    "https://chicago.councilmatic.org/person/moore-david-h-ee688e5a69d2/",
+    "https://chicago.councilmatic.org/legislation/r2026-0026811/",
+    "https://chicago.councilmatic.org/legislation/r2026-0026795/",
+    "https://blockclubchicago.org/2026/07/21/7-save-a-lot-stores-on-south-west-sides-could-close-in-days-as-owners-face-financial-headwinds/"
+  ]
+}

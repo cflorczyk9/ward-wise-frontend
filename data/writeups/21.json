@@ -1,0 +1,36 @@
+{
+  "ward": "21",
+  "headline": "Ward 21 funds schools and streets well and has almost no bars or liquor licenses.",
+  "summary": "Three of Ward 21's six best rankings, for weekly religious attendance, overall religious attendance, and strength of religious affiliation, are one signal counted three times rather than three separate wins. All three come from the same demographic model rather than a count of anyone in the ward, so once the ward's makeup produces one high modeled score, the other two follow along for free. The genuinely independent strength sits one spot down. Per-pupil school spending ranks second in the city at $23,247 a student, a reported figure rather than a model. The alderman backs that up on the street budget, putting 97.3 percent of this year's menu money into resurfacing, third most of any ward, though the same choice is why alley spending and menu diversity both rank near the bottom. Money concentrated almost entirely on streets cannot also spread across alleys and other categories.\n\nNone of that public investment shows up on the ward's commercial strip. Ward 21 has the highest share of chain restaurants in the city, 35 percent, no bars rated 4.5 stars or better with at least 50 reviews, and one of the lowest counts of restaurants licensed to pour liquor. In May, a $20 million state grant revived a program rehabbing and reselling 33 vacant homes across Roseland and Englewood, and Roseland is one of this ward's four neighborhoods. That is public money going into housing in a ward whose private market has not put up much of a dining or drinking strip on its own. June's storms left about 1,600 tree-related 311 requests open here, the second-highest count of any ward, with hundreds still unresolved three weeks later. Even a street-heavy infrastructure budget gets stretched once something other than pavement needs attention.",
+  "reading_the_rankings": "The ranking most likely to get misread is the liquor-license count, 49th in the city. The gap behind it is not close to what the rank implies. Twelve wards finish inside two points of Ward 21 here, so 49th describes a crowded tie rather than a ward standing out as uniquely dry. The zero count of top-rated bars reads as a cleaner story, a straight count rather than a model, though eight other wards are within two points of it, so the floor here is crowded. Read next to the highest chain-restaurant share in the city, the two rankings describe the same absence of an independent dining and drinking strip rather than two different problems.",
+  "news": [
+    {
+      "headline": "South Siders Still Waiting For Tree Cleanup After June Storms, But City Departments Are Overwhelmed",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/01/south-siders-still-waiting-for-tree-cleanup-after-june-storms-but-city-departments-are-overwhelmed/",
+      "date": "2026-07-01",
+      "note": "June storms left about 1,600 tree-related 311 requests open in Ward 21, the second-highest count of any ward, with hundreds still unresolved three weeks later."
+    },
+    {
+      "headline": "City program to rehab more than 30 properties on the South and West sides is back",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/real-estate/2026/05/22/city-program-rebuild-chicago-rehab-30-properties-south-west-sides",
+      "date": "2026-05-22",
+      "note": "Rebuild Chicago 2.0 is using a $20 million state grant to rehab and resell 33 vacant homes in Roseland and Englewood."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Ronnie L. Mosley",
+    "website_url": "https://www.aldmosley21.com/",
+    "verified": true,
+    "verification_note": "wards.json listed no site for this ward. Found and fetched https://www.aldmosley21.com/ this session. It states 'Alderman Ronnie L. Mosley was sworn into the Chicago City Council on May 15, 2023, as the Alderman of the 21st Ward,' confirming it as his official ward site."
+  },
+  "sources_fetched": [
+    "https://www.aldmosley21.com/",
+    "https://blockclubchicago.org/2026/07/01/south-siders-still-waiting-for-tree-cleanup-after-june-storms-but-city-departments-are-overwhelmed/",
+    "https://chicago.suntimes.com/roseland",
+    "https://chicago.suntimes.com/real-estate/2026/05/22/city-program-rebuild-chicago-rehab-30-properties-south-west-sides",
+    "https://chicago.suntimes.com/morgan-park"
+  ]
+}

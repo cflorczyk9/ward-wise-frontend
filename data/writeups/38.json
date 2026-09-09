@@ -1,0 +1,40 @@
+{
+  "ward": "38",
+  "headline": "Chicago's least transit-served ward fights over parking harder than all but one.",
+  "summary": "Ward 38 sits on Chicago's Far Northwest edge, about as far from the downtown transit lines as a Chicago address gets. Only 7.7 percent of working residents here commute by bus or train, the lowest share of any ward in Chicago. That absence of transit shows up again in the parking numbers. Parking complaints make up a larger share of local 311 calls than in all but one other ward, which is what happens when a neighborhood built for driving has nowhere left to put the cars. The ward's distance from the lake, 8.7 miles, near the bottom of the city too, is the same geography by another name.\n\nThe ward's best-looking numbers tell a smaller story about the alderman's office rather than the neighborhood. Ward 38 put the largest share of any ward's aldermanic menu money toward schools and the second largest toward parks, while alley repair got nothing at all this cycle. That's a spending choice by the current office, not a condition of the neighborhood, and it explains two of the ward's six best rankings and one of its six worst, all from the same source. What remains is thinner. A loneliness estimate puts adults here among the least lonely in the city, and the area ranks second for how many different languages are spoken at home. The loneliness figure is a low-confidence estimate spread out from census tracts, the language figure is census data handled the same way, and neither connects to the transit story or the menu money above.",
+  "reading_the_rankings": "Two numbers here look more decisive than they are. Ward 38's first-place finish on pollution near local waterways looks like the cleanest such measure in the city, but thirty-four wards score within two points of it, which makes this a tie across most of Chicago rather than one ward standing apart. The TIF increment ranking runs the same trick from the other direction. A 49th-of-49 finish for property-tax dollars captured by TIF districts sounds like the ward gets shut out of public investment, but 17 other wards score within two points of it and the source itself is rated low confidence. Read plainly, both rankings describe a crowded middle of the pack more than a genuine top or bottom spot.",
+  "news": [
+    {
+      "headline": "Boy, 13, Wounded In Portage Park Drive-By Shooting",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/07/boy-13-wounded-in-portage-park-drive-by-shooting/",
+      "date": "2026-07-07",
+      "note": "A 13-year-old was shot in the leg on the 6000 block of West Montrose Avenue when someone in a passing SUV fired shots, and he was taken to a hospital in good condition."
+    },
+    {
+      "headline": "Immigration Agents Crash Into Car, Detain Man In Dunning, Neighbor Says",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/09/immigration-agents-crash-into-car-detain-man-in-dunning-neighbor-says/",
+      "date": "2026-06-09",
+      "note": "A neighbor near Grace Street and Olcott Avenue described federal agents crashing a car during a high-speed chase and detaining a man they identified as the target of an enforcement operation."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Nicholas Sposato",
+    "website_url": "http://aldermansposato.com/",
+    "verified": true,
+    "verification_note": "Fetched http://aldermansposato.com/ directly in this session. The page title reads 'Alderman Nicholas Sposato - 38th Ward' and the site identifies him in the first person as the ward's alderman, confirming it is his official site."
+  },
+  "sources_fetched": [
+    "http://aldermansposato.com/",
+    "https://blockclubchicago.org/tag/38th-ward/",
+    "https://blockclubchicago.org/?s=Sposato",
+    "https://blockclubchicago.org/?s=Portage+Park",
+    "https://blockclubchicago.org/?s=Dunning",
+    "https://blockclubchicago.org/?s=%2238th+Ward%22",
+    "https://blockclubchicago.org/2026/07/07/boy-13-wounded-in-portage-park-drive-by-shooting/",
+    "https://blockclubchicago.org/2026/06/09/immigration-agents-crash-into-car-detain-man-in-dunning-neighbor-says/",
+    "https://blockclubchicago.org/2026/07/17/krzysztof-arsenowicz-longtime-polish-radio-host-remembered-with-honorary-street-sign-in-dunning/"
+  ]
+}

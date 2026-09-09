@@ -1,0 +1,51 @@
+{
+  "ward": "48",
+  "headline": "Ward 48's lake, air and pollution ranks are one geographic fact told three times.",
+  "summary": "Three of Ward 48's six best ranks are one fact told three ways. The ward sits closer to Lake Michigan than the other forty-nine wards, about half a mile to the shoreline on average, and that same position shows up again in its second-best score for fine-particle air quality and its second-best score for distance from major polluting facilities. Edgewater, Uptown and Rogers Park sit along the lake and away from the industrial corridors that drag air quality down elsewhere in Chicago, so scoring well on pollution here is close to a restatement of scoring well on lakefront distance. The other two strengths are a different kind of number. Menu spending diversity is a choice the alderman's office made about dividing project money, and the civic-engagement score is a ZIP-code stand-in for volunteering carrying a low-confidence rating from its own source, since ZIP boundaries and ward lines were never drawn to match.\n\nThe ward's worst ranks split into two different kinds of finding. Menu money for street lighting and for park improvements both landed at zero dollars this cycle, the alderman's office spending on other categories instead, and neither rank means much on its own, since the wards near Ward 48 on these two measures are packed together, thirty-eight of them on lighting and forty on parks, close enough that a small shift in next year's budget could reorder the bottom of either list. The other finding is demographic. Just over half of the ward's households have someone living alone, among the highest shares in the city, and a modeled estimate of adults afraid to walk alone at night, 49th of fifty, is built from that same kind of survey and household data rather than from asking anyone who actually lives here. The two numbers read as one demographic signal rather than two separate findings about safety.",
+  "reading_the_rankings": "Ward 48's last-place rank on worship ratings looks damning against forty-nine other wards, but the number behind it is a median Google rating of 4.7, itself a strong score, and twelve other wards sit close enough on this measure to call it a statistical tie rather than a real gap. Its 49th-place rank on menu dollars for parks tells an even thinner story. The middle half of Chicago's wards squeeze into a band just three tenths of a point wide on this measure, forty wards deep, so 49th here is less a judgment on the ward's parks than a snapshot of one alderman's spending category in one budget cycle.",
+  "news": [
+    {
+      "headline": "Judge dismisses Edgewater residents, businesses' lawsuit over Broadway zoning changes",
+      "outlet": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/real-estate/2026/06/30/judge-cohen-dismisses-edgewater-residents-businesses-lawsuit-broadway-upzoning",
+      "date": "2026-06-30",
+      "note": "A Cook County judge dismissed a lawsuit from Edgewater residents and business owners challenging the city's 2025 plan that upzoned nearly two miles of Broadway."
+    },
+    {
+      "headline": "Emanuel Congregation / Fern Hill Development - Frequently Asked Questions",
+      "outlet": "48th Ward Office",
+      "url": "https://www.the48thward.org/blog/emanuel-fern-hill-faq",
+      "date": "2026-07-14",
+      "note": "The ward office published an FAQ on a proposed mixed-use redevelopment of three Sheridan Road properties tied to Emanuel Congregation."
+    },
+    {
+      "headline": "Under 'L' Activation: New Community Spaces for Edgewater and Uptown",
+      "outlet": "48th Ward Office",
+      "url": "https://www.the48thward.org/blog/under-l-construction",
+      "date": "2026-08-06",
+      "note": "Construction began on a CTA project converting old embankments beneath the elevated tracks into about a mile of new public space between Lawrence and Ardmore."
+    },
+    {
+      "headline": "Bryn Mawr / Sheridan Water Main Construction",
+      "outlet": "48th Ward Office",
+      "url": "https://www.the48thward.org/blog/bryn-mawr-sheridan-water-main-replacement",
+      "date": "2026-06-09",
+      "note": "The city started a $2.8 million project replacing aging water mains and lead service lines along Bryn Mawr and Sheridan, running from June into the fall."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Leni Manaa-Hoppenworth",
+    "website_url": "https://www.the48thward.org/",
+    "verified": true,
+    "verification_note": "wards.json already listed this site as verified. Independently fetched https://www.the48thward.org/ this session. The homepage states 'Welcome to the website of the 48th ward's alderwoman, Leni Manaa-Hoppenworth,' confirming the site is hers."
+  },
+  "sources_fetched": [
+    "https://www.the48thward.org/",
+    "https://www.the48thward.org/blog",
+    "https://chicago.suntimes.com/real-estate/2026/06/30/judge-cohen-dismisses-edgewater-residents-businesses-lawsuit-broadway-upzoning",
+    "https://www.the48thward.org/blog/emanuel-fern-hill-faq",
+    "https://www.the48thward.org/blog/under-l-construction",
+    "https://www.the48thward.org/blog/bryn-mawr-sheridan-water-main-replacement"
+  ]
+}

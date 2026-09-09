@@ -1,0 +1,53 @@
+{
+  "ward": "28",
+  "headline": "One tract method carries three of Ward 28's worst ranks and softens none of them.",
+  "summary": "The most convincing of Ward 28's six best rankings are the ones nobody had to model. It has more mapped gardens than any ward in the city, 23 in total, and the fourth-highest count of civic and cultural places, 136, both pulled straight off the map rather than estimated. New residential permits add a third real count, 29 in total, also fourth-best in the city. In Austin, three families are preparing to move into Habitat for Humanity's first three homes on the West Side this summer.\n\nThe weak half of the scorecard is three separate findings that happen to arrive by one route. Poverty sits at 30.5 percent of residents. Proximity to Superfund and brownfield sites lands at the same rank, and so does the 79.3 percent of the ward inside a city-designated Environmental Justice priority area. All three are built by splitting census tracts along the ward's edge and assuming residents sit evenly across each one, which blurs where a number falls at the boundary without changing its level. Close to a third of the people here live below the poverty line under any reasonable redraw of those lines, and four fifths of the ward sits inside an EJ priority area. The same strain shows up in numbers that never touch a census tract. Traffic injuries, 902 last year, are the worst count in the city, and in July seven Save A Lot stores across the South and West Sides, including the West Garfield Park location on Pulaski, faced sudden closure over what their owners called financial headwinds. Chain restaurants make up close to half the ward's licensed restaurants, near the bottom of that ranking as well.",
+  "reading_the_rankings": "The two rankings on how often residents see friends and neighbors weekly, third and fourth in the city at 18.3 and 20.7 percent, are the ones most likely to read as real community warmth. Neither number was collected here. Both come from a model that looks at a ward's age, income, and household mix and predicts what a similar ward usually reports in national surveys, and the source itself flags the estimate as low confidence. The traffic injury count needs a different correction. A total of 902 reads like the single worst safety number in the city, and it is a raw count rather than a rate, so it climbs with how much traffic moves through the ward as well as with the risk of any one trip. That does not shrink it. It makes 902 the right number for asking how much crash response this ward absorbs and the wrong one for ranking how dangerous a given drive here is.",
+  "news": [
+    {
+      "headline": "Rev. Don Hoover Wheat Remembered As Champion Of Civil Rights On The West Side",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/05/11/rev-don-hoover-wheat-remembered-as-champion-of-civil-rights-on-the-west-side/",
+      "date": "2026-05-11",
+      "note": "Neighbors remembered Rev. Don Hoover Wheat, who led Third Unitarian Church in Austin from 1969 to 1998, after his death at age 92."
+    },
+    {
+      "headline": "3 Families Prepare To Move Into Habitat For Humanity's 1st West Side Homes",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/06/22/3-families-prepare-to-move-into-habitat-for-humanitys-1st-west-side-homes/",
+      "date": "2026-06-22",
+      "note": "Habitat for Humanity is finishing its first three homes in Austin, part of a larger push to build affordable housing on the West Side."
+    },
+    {
+      "headline": "7 Save A Lot Stores on South, West Sides Could Close In Days As Owners Face 'Financial Headwinds'",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/07/21/7-save-a-lot-stores-on-south-west-sides-could-close-in-days-as-owners-face-financial-headwinds/",
+      "date": "2026-07-21",
+      "note": "The West Garfield Park Save A Lot at 420 South Pulaski Road was among seven citywide locations facing sudden closure while city officials worked with the owners to try to keep them open."
+    },
+    {
+      "headline": "Florals By Hailey: West Side Art Teacher Launching Floral Studio In Austin Arts District With Workshops For Neighbors",
+      "outlet": "Block Club Chicago",
+      "url": "https://blockclubchicago.org/2026/08/07/florals-by-hailey-west-side-art-teacher-launching-floral-studio-in-austin-arts-district-with-workshops-for-neighbors/",
+      "date": "2026-08-07",
+      "note": "Nash Elementary art teacher Hailey Rodden is opening a floral studio and workshop space on West North Avenue in Austin's developing arts district."
+    }
+  ],
+  "news_status": "found",
+  "alderperson": {
+    "name": "Jason C. Ervin",
+    "website_url": "http://www.AldermanErvin.com/",
+    "verified": true,
+    "verification_note": "Fetched http://www.AldermanErvin.com/ this session. The homepage title reads 'Alderman Ervin: 28th Ward Chicago Services & Safety' and its text states Jason C. Ervin was appointed alderman of the 28th Ward in January 2011, with the site's own structured data naming the organization the '28th Ward Office.'"
+  },
+  "sources_fetched": [
+    "http://www.AldermanErvin.com/",
+    "https://blockclubchicago.org/tag/jason-ervin/",
+    "https://blockclubchicago.org/category/austin-garfield-park/",
+    "https://blockclubchicago.org/2026/07/14/could-the-city-still-buy-back-control-of-its-parking-meters/",
+    "https://blockclubchicago.org/2026/05/11/rev-don-hoover-wheat-remembered-as-champion-of-civil-rights-on-the-west-side/",
+    "https://blockclubchicago.org/2026/06/22/3-families-prepare-to-move-into-habitat-for-humanitys-1st-west-side-homes/",
+    "https://blockclubchicago.org/2026/07/21/7-save-a-lot-stores-on-south-west-sides-could-close-in-days-as-owners-face-financial-headwinds/",
+    "https://blockclubchicago.org/2026/08/07/florals-by-hailey-west-side-art-teacher-launching-floral-studio-in-austin-arts-district-with-workshops-for-neighbors/"
+  ]
+}

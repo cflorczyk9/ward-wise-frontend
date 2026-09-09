@@ -1581,10 +1581,7 @@
     box.hidden = false;
     box.innerHTML = `<button type="button" disabled>Looking up that address&hellip;</button>`;
     try {
-      const result = await api.fetchJson(
-        `/geocode?q=${encodeURIComponent(query)}`,
-        "Address lookup is unavailable right now.",
-      );
+      const result = await WardWiseGeocode.search(query);
       if (result.match) {
         const wardId = wardAtPoint(result.match.lat, result.match.lon);
         if (wardId) {
@@ -1677,10 +1674,7 @@
     suggestTimer = setTimeout(async () => {
       const seq = ++suggestSeq;
       try {
-        const result = await api.fetchJson(
-          `/geocode/suggest?q=${encodeURIComponent(query)}`,
-          "Suggestions unavailable.",
-        );
+        const result = await WardWiseGeocode.suggest(query);
         if (suggestCache.size > 80) suggestCache.clear();
         suggestCache.set(trimmed, result.suggestions || []);
         if (seq !== suggestSeq) return; // a newer keystroke superseded this one
@@ -1699,10 +1693,7 @@
     if (!suggestion) return;
     el("k3-search-results").hidden = true;
     try {
-      const result = await api.fetchJson(
-        `/geocode/resolve?text=${encodeURIComponent(suggestion.label)}&key=${encodeURIComponent(suggestion.key || "")}`,
-        "Address lookup is unavailable right now.",
-      );
+      const result = await WardWiseGeocode.resolve(suggestion.label, suggestion.key || "");
       const wardId = result.match ? wardAtPoint(result.match.lat, result.match.lon) : null;
       if (wardId) {
         selectWard(wardId);

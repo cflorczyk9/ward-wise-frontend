@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ward Wise Reports — where your ward stands</title>
+<meta name="description" content="Where a Chicago ward stands today across every measure Ward Wise Penlight collects, and what has changed where the data supports saying so.">
+<link rel="icon" href="/static/logo.svg" type="image/svg+xml">
+<!-- Same cascade as the explorer pages, so the header matches exactly.
+     reports.css loads last and owns everything below the header. -->
+<link rel="stylesheet" href="/static/styles.css">
+<link rel="stylesheet" href="/static/k3-shell.css">
+<link rel="stylesheet" href="/static/reports.css">
+</head>
+<body data-page="reports">
+
+    <header class="site-header">
+      <a class="site-brand" href="/" aria-label="Ward Wise Penlight home">
+        <span class="brand-mark" aria-hidden="true">
+          <img class="brand-logo" src="/static/logo.svg" alt=""
+               width="64" height="64">
+        </span>
+        <span class="brand-copy">
+          <span class="brand-kicker">Ward Wise</span>
+          <span class="brand-name">Penlight</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a class="nav-link" href="/">Explore</a>
+        <a class="nav-link is-active" href="/reports">Reports</a>
+        <a class="nav-link" href="/report">Quarterly</a>
+        <a class="nav-link" href="/menu">Menu money</a>
+        <a class="nav-link" href="/dictionary">Dictionary</a>
+        <a class="nav-link" href="/about">Support</a>
+      </nav>
+    </header>
+
+<main class="k3-page">
+
+  <section class="picker">
+    <label for="ward">Ward</label>
+    <select id="ward" disabled><option>Loading…</option></select>
+  </section>
+
+  <section class="lede" id="lede" hidden>
+    <h1 id="headline"></h1>
+    <p id="subhead"></p>
+    <p class="lede-note" id="snapshot-note" hidden></p>
+  </section>
+
+  <section class="statusbar" id="status">Loading the metric dictionary…</section>
+
+  <!-- Where the ward stands right now. Every measure is current, scored across
+       all 50 wards at one moment, so nothing here depends on the time series. -->
+  <section class="results" id="snapshot" hidden>
+    <div class="column">
+      <h2>Strongest here</h2>
+      <ol class="rows" id="rows-strong"></ol>
+    </div>
+    <div class="column">
+      <h2>Weakest here</h2>
+      <ol class="rows" id="rows-weak"></ol>
+    </div>
+  </section>
+
+  <!-- Secondary on purpose. Most of the dictionary has no usable history, so
+       this section says what it can stand behind and no more. -->
+  <section class="change" id="change" hidden>
+    <div class="change-head">
+      <h2>What changed over time</h2>
+      <p class="change-note" id="change-note"></p>
+      <div class="picker picker-inline">
+        <label for="from-year">From</label>
+        <select id="from-year" disabled></select>
+        <label for="to-year">To</label>
+        <select id="to-year" disabled></select>
+      </div>
+    </div>
+
+    <div class="filters" id="filters" hidden></div>
+
+    <div class="results" id="results" hidden>
+      <div class="column">
+        <h2>Moved the right way</h2>
+        <ol class="rows" id="rows-better"></ol>
+      </div>
+      <div class="column">
+        <h2>Moved the wrong way</h2>
+        <ol class="rows" id="rows-worse"></ol>
+      </div>
+    </div>
+
+    <div class="office-changes" id="office-changes" hidden>
+      <h2>How the ward office's budget shifted</h2>
+      <p class="office-note">
+        These record decisions by the ward's officeholder, mostly how the
+        office split its annual menu budget. A share moving up or down is a
+        choice, not a neighborhood getting better or worse, so nothing here is
+        sorted into the columns above.
+      </p>
+      <ol class="rows" id="rows-office"></ol>
+    </div>
+
+    <div class="excluded" id="excluded" hidden>
+      <h2>Not in this section</h2>
+      <p id="excluded-note"></p>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <p>
+    Data from the <a href="https://penlight.wardwise.org">Ward Wise Penlight</a> API, a
+    <a href="https://chihacknight.org/">Chi Hack Night</a> project by Harry Brisson.
+    This is an independent reporting view built against that public API.
+  </p>
+  <p class="fine" id="provenance"></p>
+</footer>
+
+<script src="/static/site-config.js"></script>
+<script src="/static/reports.js"></script>
+</body>
+</html>
